@@ -10,8 +10,6 @@ var corsOptions = {
     optionsSuccessStatus: 200 
 }
 
-app.use(cors());
-
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/index.html'));
 })
