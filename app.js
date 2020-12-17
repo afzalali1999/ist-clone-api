@@ -5,10 +5,10 @@ const cors = require('cors');
 
 const app = express();
 
-// var corsOptions = {
-//     origin: 'http://example.com',
-//     optionsSuccessStatus: 200 
-// }
+var corsOptions = {
+    origin: 'https://istclone.netlify.app',
+    optionsSuccessStatus: 200 
+}
 
 app.use(cors());
 
@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/index.html'));
 })
 
-app.get('/api/about', (req, res) => {
+app.get('/api/about', cors(corsOptions), (req, res) => {
     fs.readFile('./data/about.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -24,7 +24,7 @@ app.get('/api/about', (req, res) => {
     })
 });
 
-app.get('/api/degrees', (req, res) => {
+app.get('/api/degrees', cors(corsOptions), (req, res) => {
     fs.readFile('./data/degrees.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -32,7 +32,7 @@ app.get('/api/degrees', (req, res) => {
     })
 });
 
-app.get('/api/minors', (req, res) => {
+app.get('/api/minors', cors(corsOptions), (req, res) => {
     fs.readFile('./data/minors.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -40,7 +40,7 @@ app.get('/api/minors', (req, res) => {
     })
 });
 
-app.get('/api/employers', (req, res) => {
+app.get('/api/employers', cors(corsOptions), (req, res) => {
     fs.readFile('./data/employers.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -48,7 +48,7 @@ app.get('/api/employers', (req, res) => {
     })
 });
 
-app.get('/api/people', (req, res) => {
+app.get('/api/people', cors(corsOptions), (req, res) => {
     fs.readFile('./data/people.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -56,7 +56,7 @@ app.get('/api/people', (req, res) => {
     })
 });
 
-app.get('/api/research', (req, res) => {
+app.get('/api/research', cors(corsOptions), (req, res) => {
     fs.readFile('./data/research.json', 'utf8', (error, data) => {
         if (error) throw error;
 
@@ -64,7 +64,7 @@ app.get('/api/research', (req, res) => {
     })
 });
 
-app.get('/api/footer', (req, res) => {
+app.get('/api/footer', cors(corsOptions), (req, res) => {
     fs.readFile('./data/footer.json', 'utf8', (error, data) => {
         if (error) throw error;
 
