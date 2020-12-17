@@ -1,0 +1,640 @@
+{
+   "byInterestArea":[
+      {
+         "areaName":"HCI",
+         "citations":[
+            "Gears, Deborah A.  Wiki Behavior in the Workplace: Emotional Aspects of Content Development. 1st ed. Ann Arbor, MI: UMI Dissertation Publishing, 2011. Print.",
+            "Gears, Deborah A. 'Corporate Wikis Underground: An Investigation of Motivation and Collaborative Engagement.' Journal of Management and Marketing Research 9. March (2012): 14-33. Print.",
+            "Weeden, Elissa. 'How Accessible Are Open Education Websites?' International Conference of Education, Research and Innovation (iCERI 2011). International Association for Technology, Education and Development. Melia Castilla Madrid, Madrid, Spain. 14-16 Nov. 2011. Conference Presentation.",
+            "Gears, Deborah A. 'Corporate Wiki Conduct: A Study of Organizational Influences, Emotion, and Motivation.' Journal of Leadership, Accountability and Ethics 9. 3 (2012): 75-85. Print.",
+            "Gears, Deborah A. Railway to Prosocial Crowdsourcing. 9 Jun. 2012. TEDx Flour City, Rochester. Performance.",
+            "Gears, Deborah and Carla Lorek. 'Context Matters: A Grounded Theory Analysis of Wiki Engagement.' Proceedings of the Proceed International Conference on Multimedia and Human Computer Interaction. Toronto, Canada: n.p., 2013. Print.",
+            "Gears, Deborah and Karen Braun. 'Gamification in Business: Designing Motivating Solutions to Problem Situations.' Proceedings of the CHI 2013 Gamification Workshop. Ed. Paris, France: n.p., 2013. Web.",
+            "Hanson, Vicki L. and John T. Richards. 'Progress on Website Accessibility?' ACM Transactions on the Web 7. 1 (2013): Article 2, (March 2013), 30 pages. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'Open Source Accessibility: Advantages and Limitations.' Journal of Interaction Science 1. (2013): Article 2, 10 pages. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'Accessibility Support with the ACCESS Framework.' International Journal of Human Computer Interaction 29. 11 (2013): 702-716. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'The ACCESS Framework: A Technical Framework for Adaptive Accessibility Support.' Proceedings of the 5th ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '13); London, June 24 - 26. Ed. Peter Forbrig and Prasun Dewan. New York, NY: ACM, Print.",
+            "Gibson, Lorna and Vicki L. Hanson. 'Digital Motherhood: How Does Technology Support New Mothers?' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, Print.",
+            "Medellin-Gasque, Rolando, Chris Reed, and Vicki L. Hanson. 'A Protocol for Software-Supported Interaction with Broadcast Debates.' Proceedings of the Open Digital, Fourth Annual Digital Economy All Hands Conference. Ed. Nick Race and Paul Sermon. Salford, UK: n.p., 2013. Web.",
+            "Noval, Chris, John Arnott, and Vicki L. Hanson. 'Older Adults and Social Networking Sites: Developing Recommendations for Inclusive Design.' Proceedings of the Open Digital, Fourth Annual Digital Economy All Hands Conference. Ed. Nick Race and Paul Sermon. Salford, UK: n.p., 2013. Web.",
+            "Nicolau, Hugo, et al(Hanson, Vicki L.). 'Augmenting Braille Input Through Multi-Touch Feedback.' Proceedings of the ACM Symposium on User Interface Software and Technology (UIST '13). Ed. Ivan Poupyrev and Takeo Igarashi. New York, NY: ACM, 2013. Print.",
+            "Stewart, Craig, Penny Traitor, and Vicki L. Hanson. 'Wheels in Motion: Inertia Sensing in Roller Derby.' Proceedings of the ACM Symposium on User Interface Software and Technology (UIST '13). Ed. Ivan Poupyrev and Takeo Igarashi. New York, NY: ACM, 2013. Print.",
+            "McIntyre, Lesley and Vicki L. Hanson. 'BESiDE-The Built Environment for Social Inclusion in the Digital Economy.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, Print.",
+            "Vargheese, John Paul, et al(Hanson, Vicki L.). 'Persuasive Dialogue in Telecare: Promoting and Encouraging Social Interaction for Older Adults.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, 2013. Print.",
+            "Hanson, Vicki L. 'Accessibility.' HCI Guru Lecture Series. Loughborough University. Loughborough, UK. 3 Oct. 2013. Lecture.",
+            "Sears, Andrew and Vicki L. Hanson, ed. ACM Transactions on Accessible Computing. New York, NY: ACM, 2013. Web.",
+            "Bogaard, Daniel, Beaton, Catherine, Walsh, Shawn, Macleod, Janet, West, Leanne, Adler, Ethan, Lalley, Peter, 'Enhancement of Educational Access through Emerging Technologies: Real Time Text Generation and Unified Information Display Methods', Faculty Institute on Teaching and Learning, Rochester Institute of Technology, May 2010",
+            "Pengfei Lu, Matt Huenerfauth. 2014. Collecting and Evaluating the CUNY ASL Corpus for Research on American Sign Language Animation. Computer Speech & Language. Volume 28, Issue 3, May 2014, Pages 812?831.  Elsevier.  doi: 10.1016/j.csl.2013.10.004?",
+            "Hernisa Kacorri, Pengfei Lu, Matt Huenerfauth. 2013. Effect of Displaying Human Videos During an Evaluation Study of American Sign Language Animation. ACM Transactions on Accessible Computing. Volume 5, Issue 2, Article 4 (October 2013), 31 pages. doi: 10.1145/2517038",
+            "Matt Huenerfauth, Pengfei Lu. 2012. ?Effect of Spatial Reference and Verb Inflection on the Usability of American Sign Language Animations.? Universal Access in the Information Society: Volume 11, Issue 2 (June 2012), pages 169-184. doi: 10.1007/s10209-011-0247-7.",
+            "Pengfei Lu, Matt Huenerfauth. 2011. ?Data-Driven Synthesis of Spatially Inflected Verbs for American Sign Language Animation.? ACM Transactions on Accessible Computing. Volume 4, Issue 1, Article 4 (November 2011), 29 pages. doi: 10.1145/2039339.2039343",
+            "Matt Huenerfauth, Pengfei Lu.  2010. ?Accurate and Accessible Motion-Capture Glove Calibration for Sign Language Data Collection.? ACM Transactions on Accessible Computing, Volume 3, Number 1, Article 2.  New York: ACM Press.  32 pages. doi: 10.1145/1838562.1838564",
+            "Hernisa Kacorri, Matt Huenerfauth. 2015. 'Comparison of Finite-Repertoire and Data-Driven Facial Expressions for Sign Language Avatars.' Universal Access in Human-Computer Interaction.  Lecture Notes in Computer Science. Switzerland: Springer International Publishing. ",
+            "Matt Huenerfauth, Hernisa Kacorri. 2015. 'Best Practices for Conducting Evaluations of Sign Language Animation.' Proceedings of the 30th Annual International Technology and Persons with Disabilities Conference (CSUN?15), Scientific/Research Track, San Diego, California, USA.",
+            "Hernisa Kacorri, Allen Harper, Matt Huenerfauth. 2014. Measuring the Perception of Facial Expressions in American Sign Language Animations with Eye Tracking. Universal Access in Human-Computer Interaction.  Lecture Notes in Computer Science, Volume 8516, pp. 549-559. Switzerland: Springer International Publishing.",
+            "Hernisa Kacorri, Matt Huenerfauth. 2014. 'Implementation and Evaluation of Animation Controls Sufficient for Conveying ASL Facial Expressions.' Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS?14), Rochester, New York, USA.",
+            "Matt Huenerfauth, Hernisa Kacorri. 2014. 'Release of Experimental Stimuli and Questions for Evaluating Facial Expressions in Animations of American Sign Language.' Proceedings of the 6th Workshop on the Representation and Processing of Sign Languages: Beyond the Manual Channel, The 9th International Conference on Language Resources and Evaluation (LREC 2014), Reykjavik, Iceland.",
+            "Hernisa Kacorri, Pengfei Lu, Matt Huenerfauth. 2013. 'Evaluating Facial Expressions in American Sign Language Animations for Accessible Online Information.' Universal Access in Human-Computer Interaction. Design Methods, Tools, and Interaction Techniques for eInclusion, Lecture Notes in Computer Science Volume 8009, 2013, pp. 510-519. ",
+            "Hernisa Kacorri, Allen Harper, Matt Huenerfauth. 2013. 'Comparing Native Signers Perception of American Sign Language Animations and Videos via Eye Tracking.' In Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '13). ACM, New York, NY, USA, Article 9, 8 pages. DOI=10.1145/2513383.2513441 ",
+            "Pengfei Lu, Matt Huenerfauth. 2012. 'Learning a Vector-Based Model of American Sign Language Inflecting Verbs from Motion-Capture Data.' Proceedings of the Third Workshop on Speech and Language Processing for Assistive Technologies (SLPAT), The 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2012), Montreal, Quebec, Canada. East Stroudsburg, PA: Association for Computational Linguistics.",
+            "Pengfei Lu, Matt Huenerfauth. 2012. 'CUNY American Sign Language Motion-Capture Corpus: First Release.' Proceedings of the 5th Workshop on the Representation and Processing of Sign Languages: Interactions between Corpus and Lexicon, The 8th International Conference on Language Resources and Evaluation (LREC 2012), Istanbul, Turkey.",
+            "Dee, Marianne and Vicki L. Hanson. 'A Large User Pool for Accessibility Research with Representative Users.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "McIntyre, Lesley and Vicki L. Hanson. 'Buildings and Users with Visual Impairment: Uncovering Factors for Accessibility Using BITKit.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Montague, Kyle and Vicki L. Hanson. 'Motor-impaired Touchscreen Interactions in the Wild.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Crabb, Michael and Vicki L. Hanson. 'Age, Technology Usage, and Cognitive Characteristics in Relation to Perceived Disorientation and Reported Website Ease of Use.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Spoken Interaction with Broadcast Debates.' Proceedings of the International Conference on Computational Models of Argument. Ed. IOS. Amsterdam, Netherlands: IOS Press, 2014. Print.",
+            "Nicolau, Hugo, et al. 'B#: Chord-based Correction for Multitouch Braille Input.' Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14). BEST PAPER AWARD. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Norval, Chris, John Arnott, and Vicki L. Hanson. 'What's on Your Mind? Investigating Recommendations for Inclusive Social Networking and Older Adults.' Proceedings of the Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Older adults? Interaction with Broadcast Debates.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Older adults? Interaction with Broadcast Debates.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Stewart, Craig and Vicki L. Hanson. 'Assisting Older Adults in Assessing the Reliability of Health-related Websites.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Stewart, Craig D. and Vicki L. Hanson. 'I'd Tap That! Providing Real-time Feedback on Roller Derby Skills.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Trinh, Ha, et al. 'Phoneme-based Predictive Text Entry Interface.' Proceedings of the 16th international ACM SIGACCESS Conference on Computers & Accessibility. Ed. Unknown. New York, NY: ACM, 2014. Print.",
+            "Hanson, Vicki L. 'Computing for Humans.' ACM ASSETS'14. ACM. Rochester, New York. 29 Oct. 2014. Keynote Speech.",
+            "Hanson, Vicki L. 'The Human Side of Computing.' ACM Conference of European Chapter Leaders (CECL). ACM Europe Council. Athens, Greece. 18 Sep. 2014. Address.",
+            "Hanson, Vicki L. 'Disability and Aging.' Aging in Place. Computing Community Consortium & NIH Meeting. Bethesda, MD. 10 Sep. 2014. Address.",
+            "Hanson, Vicki L. 'Lifelogging and Care Home Residents.' Augmenting Human Memory - Capture and Recall in the Era of Lifelogging. Leibniz Center for Informatics Seminar on Augmenting Human Memory. Dagstuhl, Germany. 2 Sep. 2014. Address.",
+            "Hanson, Vicki L. and Lesley McIntyre. 'BESIDE: The Built Environment for Social Inclusion Through the Digital Economy.' Fifth Annual Digital Economy All Hands Conference (DE2014). Research Councils, UK. London, UK. 3 Dec. 2014. Conference Presentation.",
+            "Dee, Marianne and Vicki L. Hanson. 'A Pool of Representative Users for Accessibility Research: Seeing Through the Eyes of Users.' Fifth Annual Digital Economy All Hands Conference (DE2014). Research Councils, UK. London, UK. 3 Dec. 2014. Conference Presentation.",
+            "Montague, Kyle, Hugo Nicolau, and Vicki L. Hanson. 'The Personal Touch: Supporting Interaction Abilities With Touchscreen Devices.' The Digital Economy All Hands Conference DE|2014. Research Councils, UK. London, UK. 4 Dec. 2014. Conference Presentation.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Interaction with Broadcast Debates using Speech Recognition.' The Digital Economy All Hands Conference DE 2014. Research Councils. London, UK. 4 Dec. 2014. Conference Presentation.",
+            "Hanson, Vicki L., Reyyan Ayfer, and Beverly Bachmayer. 'European Women in Computing.' Communications of ACM (CACM). (2014). Print.",
+            "Kushalnagar, Raja, Vignesh Ramachandran, and Tae Oh. 'Tactile Captions: Augmenting Visual Captions.' Proceedings of the 2014 International Conference on Computers Helping People with Special Needs. Ed. ICCHP 2014. Paris, France: n.p., Print.",
+            "Kushainagar, Raja, Vignesh Ramachandran, and Tae Oh. 'Creating Tactile Captions: Augmeting Visual Captions.' Proceedings of the UKC 2014. Ed. UKC. San Francisco, CA: n.p., Print.",
+            "Chen, Ashbrook, Goel, Lee, Patel (2014). AirLink: sharing files between multiple devices using in-air gestures. In UbiComp '14: Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing, pp. 565-569, New York, New York, USA.",
+            "Lyons, Nguyen, Seko, White, Ashbrook, Profita (2013). BitWear: a platform for small, connected, interactive devices. In UIST '13 Adjunct: Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology, pp. 73-74.",
+            "McGee, Ashbrook, White (2012). SenSynth: a Mobile Application for Dynamic Sensor to Sound Mapping. In International Conference on New Interfaces for Musical Expression, pp. 1-4.",
+            "Lyons, Nguyen, Ashbrook, White (2012). Facet: a multi-segment wrist worn system. In UIST '12: Proceedings of the 25th annual ACM symposium on User interface software and technology, pp. 123-129.",
+            "Kohlsdorf, Starner, Ashbrook (2011). MAGIC 2.0: A web tool for false positive prediction and prevention for gesture recognition systems. In Automatic Face & Gesture Recognition and Workshops (FG 2011), 2011 IEEE International Conference on, pp. 1-6.",
+            "Lin, Ashbrook, White (2011). RhythmLink: securely pairing I/O-constrained devices by tapping. In UIST '11: Proceedings of the 24th annual ACM symposium on User interface software and technology, pp. 263-272, New York, New York, USA.",
+            "Ashbrook, Baudisch, White (2011). Nenya: subtle and eyes-free mobile input with a magnetically-tracked finger ring. In CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2043-2046, New York, New York, USA.",
+            "Ashbrook, Starner (2010). MAGIC: a motion gesture design tool. In CHI '10: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2159-2168, New York, New York, USA.",
+            "Ashbrook (2009). Enabling Mobile Microinteractions. PhD Thesis, Georgia Tech. "
+         ]
+      },
+      {
+         "areaName":"Education",
+         "citations":[
+            "Yacci, Michael and Evelyn Rozanski. 'Lookup or Learn: A Grounded Theory Approach to the Student-Task.' Proceedings of the 9th International Conference on Education and Information Systems, Technologies and Applications: EISTA 2011, July 19-22, 2011, Orlando, FL. Ed. International Institute of Informatics and Systemics. USA: n.p., 2011. Web.",
+            "Weeden, Elissa. 'Supplemental Instruction: Proactive Versus Reactive Implementations.' International Conference of Education, Research and Innovation (iCERI 2011). International Association for Technology, Education and Development. Melia Castilla Madrid, Madrid, Spain. 14-16 Nov. 2011. Conference Presentation.",
+            "Weeden, Elissa. 'Video Captioning Solutions for E-Learning Instructors.' New Learning Technologies 2011. Society for Applied Learning Technology. Caribe Royale Orlando Hotel, Orlando, Florida. 23-25 Feb. 2011. Conference Presentation.",
+            "Yacci, Michael and Mark Marcello. 'Personification and Practical Dialogues in a Kiosk Agent.' Proceedings of the Ed-Media: World Conference on Educational Multimedia, Hypermedia, and Telecommunications. Ed. Jan Herrington. Toronto, Canada: AACE, Print.",
+            "Zilora, Stephen J. 'Informatics Minor for Non-Computer Students.' Proceedings of the ACM SIGITE '11 West Point, NY, October 2011. Ed. Unknown. Unknown: Association for Computing Machinery, Inc., 2011. Print.",
+            "Zilora, Stephen J. 'STEM Collaboration Cubed.' Proceedings of the 41st ASEE/IEEE Frontiers in Education Conference. Ed. Unknown. Unknown: Institute of Electrical and Electronics Engineers, Print.",
+            "Zilora, Stephen J. 'STEM Integration with Informatics.' Proceedings of the Integrated STEM Education Conference. Ed. unknown. Ewing, NJ: Institute of Electrical and Electronics Engineers, 2011. Print.",
+            "Beaton, Catherine. 'Do We Owe Them? The Impact of e-Learning on Disadvantaged Populations.' Proceedings of the European Conference on e-Learning, Oct 26-27, 2012 Groningen, NL. Ed. Dr. Hans Beldhuis. Nr Reading, United Kingdom: Academic Publishing International Limited, Print.",
+            "Marchetti, C, et al(Mason, Sharon). 'Perceived Levels of Faculty Value, Influence, and Satisfaction by Gender, Rank, Ethnicity, College, and Department at a Large Private University.' Proceedings of the 2012 ASEE Annual Conference and Exposition. San Antonio, TX: n.p., 2012. Web.",
+            "Lewis, C, et al(Mason, Sharon). 'How You Can Make a Difference: Bootstrapping Efforts Toward Gender Balance, Birds of a Feather Presentation.' 2012 Grace Hopper Celebration of Women in Computing Conference. The Anita Borg Institute. Baltimore, MD. 2-6 Oct. 2012. Conference Presentation.",
+            "Goodall, J., et al(Mason, Sharon). 'Are We There Yet? 21st Century Juggling of an Academic Career and Family Life, Birds of a Feather Presentation.' 2012 Grace Hopper Celebration of Women in Computing Conference. Anita Borg Institute. Baltimore, MD. 2-6 Oct. 2012. Conference Presentation.",
+            "Bailey, M. and Marchetti, C., Mason, S. 'Conversing on Diversity of Women Faculty: Women Faculty, Asset or Liability?' American Association of University Women. Rochester, NY. 28 Apr. 2012. Address.",
+            "Bailey, M, et al(Mason, Sharon). National Science Foundation. ADVANCE Institutional Transformation Grant: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers. Rochester, NY, 2012.",
+            "Yacci, Michael and Evelyn P. Rozanski. 'Student Information Consumption Strategies: Implications of the Google Effect.' Proceedings of the iConference 2012 February 7-10, 2012 Toronto, ON, Canada. Ed. ACM. New York, NY: ACM, Web.",
+            "Yacci, Michael and Evelyn P. Rozanski. 'Technology and Cognitive Load of the Student Task.' Proceedings of the CHI '12 EA May 5-10, 2012 Austin, TX. Ed. ACM. New York, NY: ACM, Web.",
+            "Zilora, Stephen J, Daniel S Bogaard, and Jim Leone. 'The Changing Face of Information Technology.' Proceedings of the SIGITE/RIIT 2013. Ed. William D Armitage, Rob Friedman, and Ken Baker. Orlando, FL: ACM, 2013. Print.",
+            "Holden, Edward and T.J. Borrelli. 'Investigating the Effectiveness of Early Programming- Centric Models for IT Education.' Proceedings of the ACM SIGITE 2013 Annual Conference on Information Technology Education. Orlando, Florida: n.p., 2013. Web.",
+            "Hartpence, Bruce, et al. 'Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education.' Proceedings of the Education and Information Systems, Technologies and Applications 2013. Ed. IMSCI. Orlando, FL: n.p., 2013. Print.",
+            "Hill, Lawrence and Steven Ciccarelli. 'Using a Low-Cost Open Source Hardware Development Platform in Teaching Young Students Programming Skills.' Proceedings of the SIGITE 2013. Ed. Robert. Friedman. Orlando, Florida: ACM, 2013. Web.",
+            "LaBelle, Deborah, et al. 'Girls in IT: How to Develop Talent and Leverage Support.' Proceedings of the 14th annual ACM SIGITE Conference on Information Technology Education. Association of Computing Machinery. Orlando, FL. 11 Oct. 2013. Conference Presentation.",
+            "Gonzalez, Carlos, Charles Border, and Tae Oh. 'Teaching in Amazon's Elastic Cloud Computing.' Proceedings of the SIGITE 2013, Orlando, FL, Oct. 2013, pp. 149-150. Ed. ACM. Orlando, FLorida: n.p., Print.",
+            "Szost, Colin, et al(Oh, Tae). 'Teaching Android Malware Behaviors for Android Platform Using Interactive Labs.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 69-72. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Mislan, Rick and Tae Oh. 'Mobile Device Vulnerability Exploitation as a Security Curriculum Using the Flipped Classroom Model Approach.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp 64-68. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Vullo, Ronald P., Natallia Ivaniuk, and Sean Boyle. 'Molly Open Source Online Lecture System.' Proceedings of the EEE'13 - The 2013 International Conference on e-Learning, e-Business, Enterprise Information Systems, and e-Government, Las Vegas, NV (July, 2013). Ed. Hamid R. Arabnia, Azita Bahrami, and Fernando G. Tinetti. Las Vegas, NV: n.p., Print.",
+            "Vullo, Ronald P. and Catherine I. (Irving) Beaton, M.I.T.E. 'A Minor in Web Design and Development for Non-computing Majors.' Polytechnic Summit 2013. Wentworth Institute of Technology. Boston, MA. 6 Jun. 2013. Conference Presentation.",
+            "Johnson, D., et al(Mason, Sharon). 'Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education.' Proceedings of the 7th International Multi-Conference on Society, Cybernetics, and Informatics. Orlando, FL: n.p., 2013. Web.",
+            "Kang, Jai, Edward P. Holden, and Qi Yu. 'Design of an Analytic Centric MS Degree in Information Sciences and Technologies.' Proceedings of the SIG-ITE. Ed. ACM. Atlanta, GA: ACM, 2014. Web.",
+            "Leone, Jim and Stephen Zilora. 'A Mature Approach to Assessment.' Proceedings of the 2014 ASEE Annual Conference. Ed. ASEE. Indianapolis, IN: n.p., 2014. Web.",
+            "Mason, Marchetti, et al. 'Institutional Transformation at a Large Private Technical University: Reporting on the Accomplishments of a Combined Data Driven Top Down and Bottom Up Approach.' Proceedings of the 2014 IEEE Frontiers in Education. Ed. Unknown. Madrid, Spain: n.p., 2014. Web.",
+            "Mason, Bailey M., L Clayton, and C S. Marchetti. 'Transforming an Institution Using Data to Inform Creative Interventions.' Proceedings of the 2014 ACM & Anita Borg Grace Hopper Celebration of Women in Computing. Ed. . Phoenix, AZ: n.p., 2014. Print.",
+            "S., Mason, et al. 'Faculty Awards at a Large Private Institution: An Indicator of Evolving University Values?' Proceedings of the 2014 American Society for Engineering Education Annual Conference and Exposition. Ed. Unknown. Indianapolis, IN: n.p., 2014. Web.",
+            "Vullo, Ronald P., et al. 'Blending Art and Technology: Two Courses and Some MAGIC.' Proceedings of the International Conference on Frontiers in Education: Computer Science and Computer Engineering. Ed. Hamid R. Arabnia, et al. Las Vegas, NV: n.p., 2014. Print.",
+            "Weeden, Elissa and Kathryn L. Schmitz. 'Web Conferencing Technology: Fostering Inclusive Course Experiences for Students Who are Deaf and Hard of Hearing.' Volta Voices. (2014). Web."
+         ]
+      },
+      {
+         "areaName":"Geo",
+         "citations":[
+            "Tomaszewski, Brian, et al. 'Supporting Geographically-aware Web Document Foraging and Sensemaking.' Computers, Environment and Urban Systems 35. 3 (2011): 192-201. Print.",
+            "Tomaszewski, Brian and M. E. Smith. 'Polities, Territory and Historical Change in Postclassic Matlatzinco (Toluca Valley, Central Mexico).' Journal of Historical Geography 37. 1 (2011): 22-39. Print.",
+            "Tomaszewski, Brian. 'Situation Awareness and Virtual Globes: Applications for Disaster Management.' Computers and Geosciences 37. 1 (2011): 86-92. Print.",
+            "Tomaszewski, Brian. 'A Visual Analytics Approach to Identifying Vulnerabilities Created by Global Shocks as Revealed by Natural Disaster Impacts.' University of Buffalo Department of Geography Colloquium Series. University of Buffalo Department of Geography. University of Buffalo North Campus, Buffalo, NY. 14 Oct. 2011. Lecture.",
+            "Tomaszewski, Brian. 'A Visual Analytics Approach to Understanding Poverty Assessment through Disaster Impacts in Latin America and Africa.' Towards a Real-Time Understanding of Emerging Vulnerability. United Nations Global Pulse. UNICEF Headquarters, New York, NY. 14 Jul. 2011. Conference Presentation.",
+            "Tomaszewski, Brian. Visual Analysis of Global Shocks. 14 Nov. 2011. 3rd International Conference of Crisis Mappers, Geneva, Switzerland. Exhibit.",
+            "Tomaszewski, Brian, ed. Future Internet: Special Issue Geovisual Analytics. Basel, Switzerland: Multidisciplinary Digital Publishing Institute (MDPI), 2011. Web.",
+            "Brian Tomaszewski, and Edward Holden. 'The Geographic Information Science and Technology and.' Proceedings of the SIGITE 12, October 11 - 13, 2012, Calgary, Alberta, Canada. Ed. ACM. Calgary, Alberta, Canada: ACM, 2012. Web.",
+            "Arnold, Garth, et al(Tomaszewski, Brian). 'GIS Modeling of Social Vulnerability in Burkina Faso.' ArcUser 15. 1 (2012): 20-23. Print.",
+            "Tomaszewski, Brian and Alan MacEachren. 'Geovisual Analytics to Support Crisis Management: Information Foraging for Geo-Historical Context.' Information Visualization 11. 4 (2012): 339-359. Print.",
+            "Bouchard, Beau and Brian Tomaszewski. 'Automated GLIDE Number Resource Consolidation for Rapid Disaster Location Identification.' Proceedings of the 9th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM), Vancouver, Canada. Ed. Zeno Franco. Vancouver, Canada: n.p., 2012. Print.",
+            "Tomaszewski, Brian and Edward Holden. 'The Geographic Information Science and Technology and Information Technology Bodies of Knowledge: An Ontological Alignment.' Proceedings of the 13th Annual Conference on Information Technology Education, Calgary, Alberta, Canada. Ed. B. Lundt. Calgary, Canada: n.p., 2012. Web.",
+            "Tomaszewski, Brian. 'Understanding Global Shock Impacts Through Natural Disasters: An Overview of the United Nations Global Pulse Rapid Impact and Vulnerability Analysis Fund (RIVAF) Project.' American Association of Geographers Annual Conference. New York, NY. 15 Feb. 2012. Conference Presentation.",
+            "Tomaszewski, Brian. 'Locally Contextualizing Global Shocks.' Coffee Hour series. Penn State Geography Department. State College, PA. 27 Nov. 2012. Keynote Speech.",
+            "Tomaszewski, Brian. 'The Rochester Institute of Technology: Opportunities for Collaboration.' Guest Lecture Series. United Nations University Institute for Environment and Human Security (UNU-EHS). Bonn, Germany. 15 Jul. 2012. Guest Lecture.",
+            "Tomaszewski, Brian. Geographic Information Science and Technology Exhibit. 5 May 2012. ImagineRIT, Rochester, NY. Exhibit.",
+            "Ziemke, Jen. Crowdsourced Data, Volunteer Activism and Crisis Mapping from a GIS Perspective. Dir. Brian Tomaszewski. 25 Apr. 2012. Rochester Institute of Technology, Rochester, NY. Performance.",
+            "Tomaszewski, Brian, ed. Future Internet: Special Issue on Geovisual Analytics. Bern: MDPI, 2012. Web.",
+            "Tomaszewski, Brian, Massimo Mecella, and Francisco Nobre, ed. Geographic Information Science and Technology and Crisis Management Special Paper Session for the 9th International ISCRAM Conference. Vancouver, Canada: n.p., 2012. Print.",
+            "Vo, Minh Quang, Bouchard, Beau, and Brian Tomaszewski. Software. RIT. A Practical Approach to Mapping Job Growth in the GIS Industry. 2012.",
+            "Blochel, Kevin, et al(Floeser, Michael). 'A Serious Game for Measuring Disaster Response Spatial Thinking.' ArcUser. Summer (2013): 12-15. Web.",
+            "Goe, Michele, Brian Tomaszewski, and Gabrielle Gaustad. 'Infrastructure Planning for Solar Technology Recycling.' ArcUser 16. 1 (2013): 20-23. Print.",
+            "Blochel, Kevin, et al(Tomaszewski, Brian). 'A Serious Game for Measuring Disaster Response Spatial Thinking.' ArcUser 16. 3 (2013): 12-15. Print.",
+            "Tomaszewski, Brian, et al. 'Promoting Spatial Thinking in Natural Resource Management Through Community Mapping: The Case of Urban and Rural Secondary Schools of Rwanda.' Proceedings of the AfricaGIS 2013. Ed. Harlan Onsrud. Addis Ababa, Ethiopia: n.p., 2013. Web.",
+            "Feeney, E., et al(Tomaszewski, Brian). 'Serious Gaming and Spatial Thinking - Emergency Response Case Study.' Proceedings of the 2013 ESRI International User Conference. Ed. Esri. San Diego, CA: n.p., 2013. Web.",
+            "Mathews, Alyssa and Brian Tomaszewski. 'A Serious Game for Quantifying Spatial Thinking.' Proceedings of the 2013 NYS GIS Conference. Ed. Ann Deakin. Saratoga Springs, NY: n.p., 2013. Print.",
+            "Tomaszewski, Brian. 'New Humanities' Have Gone Digital.' Faculty Institute on Teaching and Learning. Rochester Institute of Technology. Rochester, New York. 22 May 2013. Guest Lecture.",
+            "Tomaszewski, Brian and Anthony Vodacek. 'Spatial Thinking, Disaster Risk and Visual Analytics: Case Studies from Rwanda.' Geography Colloquium. University of Bonn Geography Department. Bonn, Germany. 15 Jul. 2013. Guest Lecture.",
+            "Tomaszewski, Brian. 'Spatial Thinking and Serious Games: A Deeper Look at Geospatial Technology Practice.' Sustainable Urban Development: International Perspectives on The University as Partner in the Transformation of The Post-Industrial City symposium sponsored by ; University, Sweden and Rochester Institute of Technology. Rochester Institute of Technology. Rochester, New York. 4 Oct. 2013. Lecture.",
+            "Tomaszewski, Brian. 'Geographically Contextualizing Disasters.' Ph.D. Program Colloquium series. GCCIS Computing and Information Sciences Ph.D. Program. Rochester, New York. 11 Jan. 2013. Lecture.",
+            "Tomaszewski, Brian, et al. 'Contextualizing Social Media within Spatial, Temporal and Thematic Constraints for Disaster Situation Awareness.' Proceedings of the Workshop on GeoVisual Analytics: Interactivity, Dynamics, and Scale @ GIScience 2014. Ed. GIScience. Vienna, Austria, Austria: GIScience, 2014. Web.",
+            "Ebner, Jacqueline and Brian Tomaszewski. 'Rochester Institute of Technology`s Food Waste Resource Locator.' ArcUser 17. 1 (2014): 18-19. Print.",
+            "Tomaszewski, Brian, Joerg Szarzynski, and David Schwartz. 'Serious Games for Disaster Risk Reduction Spatial Thinking.' Proceedings of the Eighth International Conference on Geographic Information Science (GIScience 2014). Ed. Andrew U. Frank. Vienna, Austria: n.p., 2014. Web.",
+            "Tomaszewski, Brian, et al. 'Visually Contextualizing Social Media within Spatial, Temporal and Thematic Constraints for Disaster Situation Awareness.' Proceedings of the Workshop on GeoVisual Analytics: Interactivity, Dynamics, and Scale @ GIScience 2014. Ed. Gennady Andrienko. Vienna, Austria: n.p., 2014. Web.",
+            "Alnabhan, Ahmed and Brian Tomaszewski. 'INSAR: Indoor Navigation System using Augmented Reality.' Proceedings of the 6th ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness (ISA). Ed. Sisi Zlatanova. Dallas, Texas: n.p., 2014. Web.",
+            "Mathews, Alyssa, et al. 'Disaster Risk Reduction Spatial Thinking: A Serious Games Approach.' Proceedings of the 11th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM). Ed. Andrea Tapia. State College, PA: n.p., 2014. Print.",
+            "Tomaszewski, Brian. 'Crisis Maps, Mapping and Spatial Thinking.' 6th Annual International Conference of Crisis Mappers. Crisis Mappers. New York, NY. 7 Nov. 2014. Conference Presentation.",
+            "Tomaszewski, Brian, Jules Maurice Mupenzi Karasira, and Anthony Vodacek. 'Teaching Spatial Thinking in Rwanda with Free and Open Source GIS.' Esri Education GIS Conference. Esri. San Diego, CA. 20 Jul. 2014. Conference Presentation.",
+            "Tomaszewski, Brian. '20th Anniversary of Rwandan Genocide.' Good Day Rochester. 13WHAM ABC TV. Rochester, NY. 7 Apr. 2014. Guest Lecture.",
+            "Tomaszewski, Brian. 'GIS for the GIS: Opportunities and Applications.' Golisano Institute for Sustainability Seminar Series. RIT. Rochester, NY. 3 Mar. 2014. Guest Lecture."
+         ]
+      },
+      {
+         "areaName":"Database",
+         "citations":[
+            "Yu, Qi and Athman Bouguettaya. 'Multi-Attribute Optimization in Service Selection.' World Wide Web Journal (WWWJ) 15. 1 (2012): 1-31. Print.",
+            "Bouguettaya, Athman, et al (Yu, Qi). 'Service-Centric Framework for a Digital Government Application.' IEEE Transactions on Services Computing (TSC) 4. 1 (2011): 3-16. Print.",
+            "Xu, Kai, et al(Yu, Qi). 'Web Service Management System for Bioinformatics Research: A Case Study.' Service Oriented Computing and Applications 5. 1 (2011): 1-15. Print.",
+            "Liu, Xumin, et al(Yu, Qi). 'Efficient Change Management in Long-Term Composed Services.' Service Oriented Computing and Applications 5. 2 (2011): 87-103. Print.",
+            "Knight, Andrew, Qi Yu, and Manjeet Rege. 'Efficient Range Query Processing on Uncertain Data.' Proceedings of the IEEE International Conference on Information Reuse and Integration, IRI 2011. Ed. Reda Alhajj, James B. D. Joshi, and Mei-Ling Shyu. Las Vegas, Nevada: n.p., Web.",
+            "Gears, Deborah A. 'Conversations with a Data Modeler.' Data Management & Information Quality Conference Europe 2012. IRM UK. London, England. 6 Nov. 2012. Conference Presentation.",
+            "Liu, C., et al(Yu, Qi). 10th International Conference, ICSOC 2012 Shanghai, China,. 10 ed. Shanghi, China: Springer, 2012. Print.",
+            "Ghose, A., et al(Yu, Qi). Service-Oriented Computing - ICSOC 2012 Workshops - ICSOC 2012, International Workshops ASC, DISA, PAASC, SCEB, SeMaPS, WESOA, and Satellite Events. Shanghai, China: Springer, 2013. Print.",
+            "Yu, Q. and A. Bouguettaya. 'Multi-Attribute Optimization in Service Selection.' World Wide Web Journal (WWWJ) 15. 1 (2012): 1-31. Print.",
+            "Wu, J., et al(Yu, Qi). 'Selecting Skyline Services for QoS-aware Composition by Upgrading MapReduce Paradigm.' Cluster Computing 16. 4 (2013): 693-706. Print.",
+            "Yu, Q. and A. Bouguettaya. 'Efficient Service Skyline Computation for Composite Service Selection.' IEEE Transactions on Knowledge and Data Engineering (TKDE) 25. 4 (2013): 776-789. Web.",
+            "Wang, H., X. Wang, and Q. Yu. 'Optimal Self-Healing of Service-Oriented Systems with Incomplete Information.' Proceedings of the IEEE Big Data Congress. Ed. P. Hofmann. Santa Clara, CA: n.p., 2013. Print.",
+            "Holden, E.P., J.W. Kang, Anderson, G.R., D.P. Bills, M. Databases in the Cloud: A status report. ACM SIGITE Conference 2011, October 20-22, 2011 West Point, NY.",
+            "Holden, E.P., J.W. Kang, D.P. Bills, M. Ilyassov, Databases in the Cloud: A work in progress. ACM SIGITE Conference 2009: pp 138-143, October 22-24, 2009 Fairfax, VA.",
+            "Morgan, D., J.W.Kang, and J.M. Kang, Minable Data Warehouse, 11th International Conference on Enterprise Information System (ICEIS 2009) pp 125-136, May 6-10, 2009 Milan, Italy."
+         ]
+      },
+      {
+         "areaName":"Analytics",
+         "citations":[
+            "Yu, Qi. 'Place Semantics into Context: Service Community Discovery from the WSDL Corpus.' Proceedings of the Service-Oriented Computing - 9th International Conference, ICSOC 2011. Ed. Gerti Kappel, Zakaria Maamar, and Hamid R. Motahari-Nezhad. Germany: Springer, Print.",
+            "Yu, Q. and J. Kang. 'Integrating User Invocation Data and Extended Semantics for Service Community Discovery.' International Journal of Next-Generation Computing (IJNGC) 3. 2 (2012): 1-19. Print.",
+            "Yu, Q. 'Decision Tree Learning from Incomplete QoS to Bootstrap Service Recommendation.' Proceedings of the IEEE International Conference on Web Services (ICWS). Ed. Carole A. Goble, Peter P. Chen, and Jia Zhang. Honolulu, HI: IEEE, 2012. Print.",
+            "Yu, Q. 'Sparse Functional Representation for Large-scale Service Clustering.' Proceedings of the 10th International Conference on Service Oriented Computing (ICSOC 2012). Ed. C. Liu, et al. Shanghai, China: Springer, Print.",
+            "Andhale, J. P., M. Rege, and Q. Yu. 'Discovering Heterogeneous Evolving Web Service Communities Using Semi-Supervised Non Negative Matrix Factorization.' International Journal of Machine Learning and Computing (IJMLC) 3. 2 (2013): 201-205. Print.",
+            "Wang, L., et al(Yu, Qi). 'Online Reliability Time Series Prediction for Service-Oriented System of Systems.' Proceedings of the 11th International Conference on Service Oriented Computing (ICSOC). Ed. S. Basu. Berlin, Germany: Springer, 2013. Print.",
+            "Naik, S. and Q. Yu. 'Evolutionary User Selection to Maximize the Influence of Viral Marketing.' Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). Ed. Tansel Ozyer. Niagara Falls, Canada: n.p., 2013. Print.",
+            "Yu, Q., Z. Zheng, and H. Wang. 'Trace Norm Regularized Matrix Factorization for Service Recommendation.' Proceedings of the IEEE International Conference on Web Services (ICWS). Ed. Michael Lyu. Santa Clara, CA: n.p., 2013. Print.",
+            "Yu, Qi. 'Big Data Analytics in Service Computing.' Upstate New York Oracle User Group Educational Workshop. Upstate New York Oracle User Group. Buffalo, NY. 7 Jun. 2013. Conference Presentation.",
+            "Yu, Qi. 'On Large-scale Service Clustering: Sparse Learning and Probabilistic Modeling.' RMIT Workshop in Service Computing. RMIT. Melbourne, VIC. 8 Dec. 2014. Lecture.",
+            "Yu, Qi. 'Big Data Analytics In Service Computing.' S&T Seminars. University of Rochester. Rochester, NY. 25 Apr. 2014. Lecture.",
+            "Hochberg, Limor, et al(Yu, Qi). 'Towards Automatic Annotation of Clinical Decision-Making Style.' Proceedings of the The 8th Linguistic Annotation Workshop. Ed. Lori Levin and Manfred Stede. Dublin, Ireland. ",
+            "Wang, Hongbing, et al(Yu, Qi). 'A Novel Online Reliability Prediction Approach for Service-Oriented Systems.' Proceedings of the ICWS 2014. Ed. David De Roure, Bhavani Thuraisingham, and Jia Zhang. Anchorage, Alaska: IEEE.",
+            "Wang, Hongbing, et al(Yu, Qi). 'Adaptive and Dynamic Service Composition via Multi-agent Reinforcement Learning.' Proceedings of the ICWS 2014. Ed. David De Roure, Bhavani Thuraisingham, and Jia Zhang. Anchorage, Alaska: IEEE. ",
+            "Wang, Hongbing, et al(Yu, Qi). 'Integrating On-policy Reinforcement Learning with Multi-agent Techniques for Adaptive Service Composition.' Proceedings of the ICSOC 2014. Ed. Xavier Franch, et al. Paris, France: Springer. ",
+            "Bullard, Joseph, et al(Yu, Qi). 'Towards Multimodal Modeling of Physicians' Diagnostic Confidence and Self-awareness Using Medical Narratives.' Proceedings of the COLING 2014. Ed. Jan Hajic and Junichi Tsujii. Dublin, Ireland: ACL, 2014. ",
+            "Guo, Xuan, et al(Yu, Qi). 'Fusing Multimodal Human Expert Data to Uncover Hidden Semantics.' Proceedings of the GazeIn@ICMI 2014. Ed. Hung-Hsuan Huang, et al. Istanbul, Turkey: ACM.",
+            "Guo, Xuan, et al(Yu, Qi). 'Infusing Perceptual Expertise and Domain Knowledge into a Human-centered Image Retrieval System: A Prototype Application.' Proceedings of the ETRA 2014. Ed. Pernilla Qvarfordt and Dan Witzner Hansen. Safety Harbor, FL: ACM. ",
+            "Yu, Qi. 'On Bootstrapping Web Service Recommendation.' Web Services Foundations. Ed. Athman Bouguettaya, Quan Z. Sheng, and Florian Daniel. New York, NY: Springer, 2014. 589-608.",
+            "Guo, Xuan, et al(Yu, Qi). 'From Spoken Narratives to Domain Knowledge: Mining Linguistic Data for Medical Image Understanding.' Artificial Intelligence in Medicine 62. 2 (2014): 79-90.",
+            "Yu, Qi. 'QoS-aware Service Selection via Collaborative QoS Evaluation.' World Wide Web 17. 1 (2014): 33-57. Print. "
+         ]
+      },
+      {
+         "areaName":"Web",
+         "citations":[
+            "Bogaard, Daniel, Daryl Johnson, and Robert Parody. 'Browser Web Storage Vulnerability Investigation HTML5 localStorage Object.' Proceedings of the The 2012 International Conference on Security and Management. Las Vegas, NV: n.p., 2012. Print.",
+            "Tangs, Emma, et al(Oh, Tae). 'Effect of Web Caching on Load Time.' International Journal of Emerging Technology in Learning 8. 6 (2013): 21-26. Print.",
+            "Choi, Young, Young Choe, and Tae Oh. 'Future Direction for a Next Generation Web.' International Journal of Emerging Technology in Learning 8. 6 (2013): 6-10. Print.",
+            "Chen, L., et al(Yu, Qi). 'WT-LDA: User Tagging Augmented LDA for Web Service Clustering.' Proceedings of the 11th International Conference on Service Oriented Computing (ICSOC). Ed. S. Basu. Berlin, Germany: n.p., 2013. Print.",
+            "Zilora S. and Bogaard, D. 'Bringing Sanity to the Course Assignment Process', ASEE/IEEE Frontiers in Education Conference 2008, Saratoga Springs, NY. (October 22-25, 2008).",
+            "Tentilucci, Matt, Roberts, Nick, Kandari, Shreshth, Johnson, Daryl, Bogaard, Daniel S., Stackpole, Bill, Markowsky, George. 'Crowdsourcing Computer Security Attack Trees.'Proceedings of the Annual Symposium on Information Assurance (ASIA'15). Ed. Sanjay Goel. Albany, NY, June, 2015."
+         ]
+      },
+      {
+         "areaName":"Networking",
+         "citations":[
+            "Hartpence, Bruce. The Packet Guide to Voice over IP Protocols. first ed. Sebastopol, Ca: O'Reilly, 2012. Print.",
+            "Hartpence, Bruce. 'Internet Protocol Version 6.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2012. 30. Print.",
+            "Mason, S. (PI) and Stackpole, W. (Co-PI). Department of Defense. Department of Defense Information Assurance Scholarship Program. Rochester, NY, 2012.",
+            "Jeffery, Jaseem and Tae Oh. 'Implementation of Secuirty Encryption in MANET Reactive Routing Protocols Using OPNET.' Proceedings of the OPNETWORK 2012. Ed. OPNET. Washington DC, DC: n.p., 2012. Print.",
+            "Kim, HyunGon, Tae Oh, and Young Choi. 'Nomadic Device Based CRL Acquisition Method for Vehicular Networks.' Proceedings of the 6th International Conference of Convergence and Hybrid Information Technology (ICHIT 2012). Ed. Springer. Daejeon, South Korea: n.p., 2012. Print.",
+            "Oh, Tae. 'OPNET Modeler in Networking Courses at RIT.' OPNETWORK 2012. OPNET. Washington DC, DC. 13 Aug. 2012. Conference Presentation.",
+            "Hartpence, B., et al(Mason, Sharon). 'Natural Selection in Virtualization Environments: A Decade of Lessons from Academia.' Proceedings of the Education and Information Systems, Technologies and Applications 2013. Ed. IMSCI. Orlando, FL: n.p., 2013. Print.",
+            "Ghosh, A., B. Hartpence, and D. Johnson. 'A Practical Study of the Problems of Current Internet Routing Tables.' Proceedings of the 2013 International Conference on Security and Management (SAM'13). Ed. Worldcom. Las Vegas, NV: n.p., 2013. Print.",
+            "Oh, Tae (Tom), Sinan Nacy, and Jim Leone. 'Implementing SHA-1 EDDSA in Vehicular Ad-Hoc Network using NS-3.' Proceedings of the SIGITE 2013, Oct. 13, 2013, Orlando, Fl (Special Interest Group - Information Technology Education). Ed. Robb Freeman. Orlando, Florida: Association for Computing Machinery, 2013. Print.",
+            "Oh, Tae, Sumita Mishra, and Clark Hochgraf. 'Smart Grid Security in the Last Mile.' Security and Privacy in Smart Grids. Ed. Yang Xiao. Boca Raton, Florida: CRC Press, 2013. 271-291. Print.",
+            "Ge, Changfeng, et al(Oh, Tae). 'Real-Time Monitoring of Packaging Handling and Transportation.' US Provisional Patent Application US, 61/889,914. 1 Sep. 2013.",
+            "Tuncer, Hasan and Nirmala Shenoy. 'Performance Analysis of Virtual Mobility Domain Scheme vs IPv6 Mobility Protocols.' Elsevier Computer Network Journal. (2013): 125-173. Web.",
+            "Tuncer, Hasan and Nirmala Shenoy. 'A Survey of Identity and Handoff Management Approaches.' Computer Communications Journal. (2013): 125-173. Web.",
+            "Huba, Bill and Nirmala Shenoy. 'Airborne Surveillance Networks with Directional Antennas.' International Journal on Advances in Networks and Services. (2013): 125-173. Web.",
+            "Golen, Erik and Nirmala Shenoy. 'An Underwater Sensor Allocation Scheme for Non-circular Sensing Coverage Regions.' Hindawi ISRN Sensor Networks Journal. (2013): 125-173. Web.",
+            "Shenoy, Nirmala. 'Peer to Peer Communications Among Ground Troop.' Proceedings of the Communications Systems and Networks (COMSNETS), Bangalore India 4th to 6th Jan 2013. Ed. IEEE and ACM. Bangalore, Karnataka: n.p., Web.",
+            "Nozaki, Yoshihiro, Parth Bakshi, and Nirmala Shenoy. 'Tiered Gateway Routing Protocol.' Proceedings of the Ninth International Conference on Networking and Services (ICNS) 24th to 29th March 2013, Lisbon Portugal. Ed. IARIA and INRIA. Lisbon, Portugal: n.p., Web.",
+            "Nozaki, Yoshihio, Qian Li, and Nirmala Shenoy. 'Wireless Sensor Actor Networks For Industry Control.' Proceedings of the IARIA and INRIA (Europe) sponsored Ninth International Conference on Networking and Services (ICNS) 24th to 29th March 2013, Lisbon Portugal. Ed. IARIA and INRIA. Lisbon, Protugal: n.p., Web.",
+            "Hartpence, Bruce. 'Transmission Control Protocol.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2014. 200-230. Print.",
+            "Hartpence, Bruce. 'User Datagram Protocol.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2014. 230-255. Print.",
+            "Hartpence, Bruce. 'Curricular and Performance Measurement Challenges in Cloud Environments.' Proceedings of the SIGITE. Ed. SIGITE. Atlanta, Georgia: n.p., 2014. Print.",
+            "Hartpence, Bruce, et al. 'Meshed Tree Protocol for Faster Convergence in Switched Networks.' Proceedings of the ICNS 2014. Ed. ICNS 2014. Chamonix, France: IARIA, 2014. Print.",
+            "Nozaki, Yoshihiro, et al. 'Evaluation of Tiered Routing Protocol in Floating Cloud Tiered Internet Architecture.' Communication Networks. (2014): 134-145. Print.",
+            "Sharma, Kuhu, et al. 'Meshed Tree Protocol for Faster Convergence in Switched Networks.' International Conference on Network Services. (2014). Print."
+         ]
+      },
+      {
+         "areaName":"Mobile",
+         "citations":[
+            "Oh, Tae, et al. 'Best Practices for Android, Blackberry, and iOS.' Proceedings of the The First IEEE Workshop in enabling Technologies for Smartphone and Internet of Things 2012. Ed. NA. Seoul, South Korea: n.p., 2012. Print.",
+            "Ramachandran, Rahul, Tae Oh, and William Stackpole. 'Android Anti-virus Analysis.' Proceedings of the ASIA and SKM 2012. Ed. Sanjay Goel. Albany, New York: n.p., 2012. Print.",
+            "Sun, Yu, Tae Oh, and Shinyoung Lim. 'Feasibility Study of Emergency Siren Detection for Deaf and Hard of Hearing Using Android Platform.' Proceedings of the UKC 2012. Ed. UKC. Los Angeles, CA: n.p., 2012. Print.",
+            "Gonzalez, Carlos, William Stackpole, and Tae Oh. 'Anti-Spyware Analysis for iOS.' Proceedings of the ASIA and SKM 2012. Ed. ASIA. Albany, NY: n.p., 2012. Print.",
+            "Cummins, Emily, Bill Stackpole, and Tae Oh. 'Blackberry Structure and Anti-Malware Analysis.' Proceedings of the ASIA and SKM 2012. Ed. ASIA. Albany, NY: n.p., 2012. Print.",
+            "Tuncer, Hasan and Nirmala Shenoy. 'Analysis of a User-centric Handoff Costing Framework for Virtual Mobility Domain Architecture.' Proceedings of the IEEE Globecom, 3-7 Dec 2012. Ed. IEEE. Anaheim, California: n.p., Web.",
+            "Sharma, Kriti, et al(Oh, Tae). 'Malware Analysis for Android Operating System.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 31-35. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Andrew, Ben, Tae Oh, and Bill Stackpole. 'Android Malware Analysis Platform.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 36-38. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Dutia, Shobhit, Youngho Kim, and Tae Oh. 'Automated Input Generator for Android Applications.' Proceedings of the Annual Symposium on Information Assurance 2014. Ed. ASIA 2014. Albany, New York: n.p., Web.",
+            "Paugh, Katie, Rick Mislan, and Tae Oh. 'Virtual Malware Analysis Framework and Platform for Android.' Proceedings of the 9th International Conference on Cyber Warfare and Security. Ed. ICCWS 2014. West Lafayette, Indiana: n.p., Print.",
+            "Kim, Youngho and Tae Oh. 'Analysis of Mobile Malware Based on the User Awareness.' Proceedings of the SIGITE 2014. Ed. ACM. Atlanta, GA: n.p., 2014. Print.",
+            "Oh, T. 'Cloud-based Malware Mitigation Prototype for Android.' KOCSEA 2014. KOCSEA. Yorktown Heights, New York. 11 Dec. 2014. Conference Presentation.",
+            "Stackpole, Bill, Tae Oh, and Rick Mislan. 'Implementing Flipped Classroom Model in Mobile Device Security and Vulnerability Exploitation Course.' The Colloquium for Information Systems Security Education 2014. CISSE. San Diego, CA. 17 Jun. 2014. Conference Presentation.",
+            "McGee, Ashbrook, White (2012). SenSynth: a Mobile Application for Dynamic Sensor to Sound Mapping. In International Conference on New Interfaces for Musical Expression, pp. 1-4."
+         ]
+      },
+      {
+         "areaName":"Health Informatics",
+         "citations":[
+            "Friedel, Viky, et al(Zilora, Steve, Bogaard, Daniel). 'Five-year Prospective Study of Pediatric Acute Otitis Media in Rochester, NY: Modeling Analysis of the Risk of Pneumococcal Colonization in the Nasopharynx and Infection.' Journal of Epidemiology and Infection. December (2013): 1-9. Print.",
+            "Morgan, Dave, Zilora, Stephen J., Bogaard, Daniel S. 'urHL7: An HL7 Parsing and Manipulation Library.' Proceedings of the IEEE Healthcom '15. Ed. Joel Rodrigues. Boston, MA, October, 2015."
+         ]
+      },
+      {
+         "areaName":"Programming",
+         "citations":[
+            "Stoll, Steven, Michael Yacci, and Evelyn P. Rozanski. 'A Contextual Inquiry into Information Trails for Transactive Memory Systems.' Proceedings of the EdMedia 2013 - World Conference on Educational Media and Technology, 2013 Victoria, BC. Ed. Jan Herrington; Alec Couros; Valerie Irvine. Victoria, British Columbia: n.p., 2013. Print.",
+            "Yu, Q. 'Efficient Large-scale Service Clustering via Sparse Functional Representation and Accelerated Optimization.' International Journal of Cooperative Information Systems (IJCIS) 22. 4 (2013): 1-26. Print.",
+            "Wang, H., H. Sun, and Q. Yu. 'Reliable Service Composition via Automatic QoS Prediction.' Proceedings of the 10th International Conference on Services Computing (SCC 2013). Ed. Michael Goul. Santa Clara, CA: n.p., 2013. Print."
+         ]
+      },
+      {
+         "areaName":"System Administration",
+         "citations":[
+            "Border, Charles and Kyrre Begnum. 'Educating System Administrators.' :Login 39. 5 (2014): 37-43. Print.",
+            "Border, Charles. 'Virtualization Systems Architectures.' Summit of Educators in System Administration. USENIX. Seattle, Washington. 11 Nov. 2014. Conference Presentation.",
+            "Border, Charles. 'Advanced Storage Architectures.' Summit of Educators in System Administration. USENIX. Seattle, Washington. 11 Nov. 2014. Conference Presentation."
+         ]
+      },
+      {
+         "areaName":"Ubiquitous Computing",
+         "citations":[
+            "Chen, Ashbrook, Goel, Lee, Patel (2014). AirLink: sharing files between multiple devices using in-air gestures. In UbiComp '14: Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing, pp. 565-569, New York, New York, USA.",
+            "Lyons, Nguyen, Seko, White, Ashbrook, Profita (2013). BitWear: a platform for small, connected, interactive devices. In UIST '13 Adjunct: Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology, pp. 73-74.",
+            "Lyons, Nguyen, Ashbrook, White (2012). Facet: a multi-segment wrist worn system. In UIST '12: Proceedings of the 25th annual ACM symposium on User interface software and technology, pp. 123-129.",
+            "Kohlsdorf, Starner, Ashbrook (2011). MAGIC 2.0: A web tool for false positive prediction and prevention for gesture recognition systems. In Automatic Face & Gesture Recognition and Workshops (FG 2011), 2011 IEEE International Conference on, pp. 1-6.",
+            "Lin, Ashbrook, White (2011). RhythmLink: securely pairing I/O-constrained devices by tapping. In UIST '11: Proceedings of the 24th annual ACM symposium on User interface software and technology, pp. 263-272, New York, New York, USA.",
+            "Ashbrook, Baudisch, White (2011). Nenya: subtle and eyes-free mobile input with a magnetically-tracked finger ring. In CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2043-2046, New York, New York, USA.",
+            "Ashbrook, Starner (2010). MAGIC: a motion gesture design tool. In CHI '10: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2159-2168, New York, New York, USA.",
+            "Ashbrook (2009). Enabling Mobile Microinteractions. PhD Thesis, Georgia Tech. "
+         ]
+      }
+   ],
+   "byFaculty":[
+      {
+         "facultyName":"Deborah Gears",
+         "username":"dgcics",
+         "citations":[
+            "Gears, Deborah A.  Wiki Behavior in the Workplace: Emotional Aspects of Content Development. 1st ed. Ann Arbor, MI: UMI Dissertation Publishing, 2011. Print.",
+            "Gears, Deborah A. 'Corporate Wikis Underground: An Investigation of Motivation and Collaborative Engagement.' Journal of Management and Marketing Research 9. March (2012): 14-33. Print.",
+            "Gears, Deborah A. 'Corporate Wiki Conduct: A Study of Organizational Influences, Emotion, and Motivation.' Journal of Leadership, Accountability and Ethics 9. 3 (2012): 75-85. Print.",
+            "Gears, Deborah A. 'Conversations with a Data Modeler.' Data Management & Information Quality Conference Europe 2012. IRM UK. London, England. 6 Nov. 2012. Conference Presentation.",
+            "Gears, Deborah A. Railway to Prosocial Crowdsourcing. 9 Jun. 2012. TEDx Flour City, Rochester. Performance.",
+            "Gears, Deborah and Carla Lorek. 'Context Matters: A Grounded Theory Analysis of Wiki Engagement.' Proceedings of the Proceed International Conference on Multimedia and Human Computer Interaction. Toronto, Canada: n.p., 2013. Print.",
+            "Gears, Deborah and Karen Braun. 'Gamification in Business: Designing Motivating Solutions to Problem Situations.' Proceedings of the CHI 2013 Gamification Workshop. Ed. Paris, France: n.p., 2013. Web."
+         ]
+      },
+      {
+         "facultyName":"Brian Tomaszewski",
+         "username":"bmtski",
+         "citations":[
+            "Tomaszewski, Brian, et al. 'Supporting Geographically-aware Web Document Foraging and Sensemaking.' Computers, Environment and Urban Systems 35. 3 (2011): 192-201. Print.",
+            "Tomaszewski, Brian and M. E. Smith. 'Polities, Territory and Historical Change in Postclassic Matlatzinco (Toluca Valley, Central Mexico).' Journal of Historical Geography 37. 1 (2011): 22-39. Print.",
+            "Tomaszewski, Brian. 'Situation Awareness and Virtual Globes: Applications for Disaster Management.' Computers and Geosciences 37. 1 (2011): 86-92. Print.",
+            "Tomaszewski, Brian. 'A Visual Analytics Approach to Identifying Vulnerabilities Created by Global Shocks as Revealed by Natural Disaster Impacts.' University of Buffalo Department of Geography Colloquium Series. University of Buffalo Department of Geography. University of Buffalo North Campus, Buffalo, NY. 14 Oct. 2011. Lecture.",
+            "Tomaszewski, Brian. 'A Visual Analytics Approach to Understanding Poverty Assessment through Disaster Impacts in Latin America and Africa.' Towards a Real-Time Understanding of Emerging Vulnerability. United Nations Global Pulse. UNICEF Headquarters, New York, NY. 14 Jul. 2011. Conference Presentation.",
+            "Tomaszewski, Brian. Visual Analysis of Global Shocks. 14 Nov. 2011. 3rd International Conference of Crisis Mappers, Geneva, Switzerland. Exhibit.",
+            "Tomaszewski, Brian, ed. Future Internet: Special Issue Geovisual Analytics. Basel, Switzerland: Multidisciplinary Digital Publishing Institute (MDPI), 2011. Web.",
+            "Arnold, Garth, et al(Tomaszewski, Brian). 'GIS Modeling of Social Vulnerability in Burkina Faso.' ArcUser 15. 1 (2012): 20-23. Print.",
+            "Tomaszewski, Brian and Alan MacEachren. 'Geovisual Analytics to Support Crisis Management: Information Foraging for Geo-Historical Context.' Information Visualization 11. 4 (2012): 339-359. Print.",
+            "Bouchard, Beau and Brian Tomaszewski. 'Automated GLIDE Number Resource Consolidation for Rapid Disaster Location Identification.' Proceedings of the 9th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM), Vancouver, Canada. Ed. Zeno Franco. Vancouver, Canada: n.p., 2012. Print.",
+            "Tomaszewski, Brian. 'Understanding Global Shock Impacts Through Natural Disasters: An Overview of the United Nations Global Pulse Rapid Impact and Vulnerability Analysis Fund (RIVAF) Project.' American Association of Geographers Annual Conference. New York, NY. 15 Feb. 2012. Conference Presentation.",
+            "Tomaszewski, Brian. 'Locally Contextualizing Global Shocks.' Coffee Hour series. Penn State Geography Department. State College, PA. 27 Nov. 2012. Keynote Speech.",
+            "Tomaszewski, Brian. 'The Rochester Institute of Technology: Opportunities for Collaboration.' Guest Lecture Series. United Nations University Institute for Environment and Human Security (UNU-EHS). Bonn, Germany. 15 Jul. 2012. Guest Lecture.",
+            "Tomaszewski, Brian. Geographic Information Science and Technology Exhibit. 5 May 2012. ImagineRIT, Rochester, NY. Exhibit.",
+            "Ziemke, Jen. Crowdsourced Data, Volunteer Activism and Crisis Mapping from a GIS Perspective. Dir. Brian Tomaszewski. 25 Apr. 2012. Rochester Institute of Technology, Rochester, NY. Performance.",
+            "Tomaszewski, Brian, ed. Future Internet: Special Issue on Geovisual Analytics. Bern: MDPI, 2012. Web.",
+            "Tomaszewski, Brian, Massimo Mecella, and Francisco Nobre, ed. Geographic Information Science and Technology and Crisis Management Special Paper Session for the 9th International ISCRAM Conference. Vancouver, Canada: n.p., 2012. Print.",
+            "Vo, Minh Quang, Bouchard, Beau, and Brian Tomaszewski. Software. RIT. A Practical Approach to Mapping Job Growth in the GIS Industry. 2012.",
+            "Goe, Michele, Brian Tomaszewski, and Gabrielle Gaustad. 'Infrastructure Planning for Solar Technology Recycling.' ArcUser 16. 1 (2013): 20-23. Print.",
+            "Blochel, Kevin, et al(Tomaszewski, Brian). 'A Serious Game for Measuring Disaster Response Spatial Thinking.' ArcUser 16. 3 (2013): 12-15. Print.",
+            "Tomaszewski, Brian, et al. 'Promoting Spatial Thinking in Natural Resource Management Through Community Mapping: The Case of Urban and Rural Secondary Schools of Rwanda.' Proceedings of the AfricaGIS 2013. Ed. Harlan Onsrud. Addis Ababa, Ethiopia: n.p., 2013. Web.",
+            "Feeney, E., et al(Tomaszewski, Brian). 'Serious Gaming and Spatial Thinking - Emergency Response Case Study.' Proceedings of the 2013 ESRI International User Conference. Ed. Esri. San Diego, CA: n.p., 2013. Web.",
+            "Mathews, Alyssa and Brian Tomaszewski. 'A Serious Game for Quantifying Spatial Thinking.' Proceedings of the 2013 NYS GIS Conference. Ed. Ann Deakin. Saratoga Springs, NY: n.p., 2013. Print.",
+            "Tomaszewski, Brian. 'New Humanities' Have Gone Digital.' Faculty Institute on Teaching and Learning. Rochester Institute of Technology. Rochester, New York. 22 May 2013. Guest Lecture.",
+            "Tomaszewski, Brian and Anthony Vodacek. 'Spatial Thinking, Disaster Risk and Visual Analytics: Case Studies from Rwanda.' Geography Colloquium. University of Bonn Geography Department. Bonn, Germany. 15 Jul. 2013. Guest Lecture.",
+            "Tomaszewski, Brian. 'Spatial Thinking and Serious Games: A Deeper Look at Geospatial Technology Practice.' Sustainable Urban Development: International Perspectives on The University as Partner in the Transformation of The Post-Industrial City symposium sponsored by ; University, Sweden and Rochester Institute of Technology. Rochester Institute of Technology. Rochester, New York. 4 Oct. 2013. Lecture.",
+            "Tomaszewski, Brian. 'Geographically Contextualizing Disasters.' Ph.D. Program Colloquium series. GCCIS Computing and Information Sciences Ph.D. Program. Rochester, New York. 11 Jan. 2013. Lecture.",
+            "Ebner, Jacqueline and Brian Tomaszewski. 'Rochester Institute of Technology`s Food Waste Resource Locator.' ArcUser 17. 1 (2014): 18-19. Print.",
+            "Tomaszewski, Brian, Joerg Szarzynski, and David Schwartz. 'Serious Games for Disaster Risk Reduction Spatial Thinking.' Proceedings of the Eighth International Conference on Geographic Information Science (GIScience 2014). Ed. Andrew U. Frank. Vienna, Austria: n.p., 2014. Web.",
+            "Tomaszewski, Brian, et al. 'Visually Contextualizing Social Media within Spatial, Temporal and Thematic Constraints for Disaster Situation Awareness.' Proceedings of the Workshop on GeoVisual Analytics: Interactivity, Dynamics, and Scale @ GIScience 2014. Ed. Gennady Andrienko. Vienna, Austria: n.p., 2014. Web.",
+            "Alnabhan, Ahmed and Brian Tomaszewski. 'INSAR: Indoor Navigation System using Augmented Reality.' Proceedings of the 6th ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness (ISA). Ed. Sisi Zlatanova. Dallas, Texas: n.p., 2014. Web.",
+            "Mathews, Alyssa, et al. 'Disaster Risk Reduction Spatial Thinking: A Serious Games Approach.' Proceedings of the 11th International Conference of the International Association For The Study Of Information Systems For Crisis Response And Management (ISCRAM). Ed. Andrea Tapia. State College, PA: n.p., 2014. Print.",
+            "Tomaszewski, Brian. 'Crisis Maps, Mapping and Spatial Thinking.' 6th Annual International Conference of Crisis Mappers. Crisis Mappers. New York, NY. 7 Nov. 2014. Conference Presentation.",
+            "Tomaszewski, Brian, Jules Maurice Mupenzi Karasira, and Anthony Vodacek. 'Teaching Spatial Thinking in Rwanda with Free and Open Source GIS.' Esri Education GIS Conference. Esri. San Diego, CA. 20 Jul. 2014. Conference Presentation.",
+            "Tomaszewski, Brian. '20th Anniversary of Rwandan Genocide.' Good Day Rochester. 13WHAM ABC TV. Rochester, NY. 7 Apr. 2014. Guest Lecture.",
+            "Tomaszewski, Brian. 'GIS for the GIS: Opportunities and Applications.' Golisano Institute for Sustainability Seminar Series. RIT. Rochester, NY. 3 Mar. 2014. Guest Lecture."
+         ]
+      },
+      {
+         "facultyName":"Elissa Weeden",
+         "username":"emwics",
+         "citations":[
+            "Weeden, Elissa. 'How Accessible Are Open Education Websites?' International Conference of Education, Research and Innovation (iCERI 2011). International Association for Technology, Education and Development. Melia Castilla Madrid, Madrid, Spain. 14-16 Nov. 2011. Conference Presentation.",
+            "Weeden, Elissa. 'Supplemental Instruction: Proactive Versus Reactive Implementations.' International Conference of Education, Research and Innovation (iCERI 2011). International Association for Technology, Education and Development. Melia Castilla Madrid, Madrid, Spain. 14-16 Nov. 2011. Conference Presentation.",
+            "Weeden, Elissa. 'Video Captioning Solutions for E-Learning Instructors.' New Learning Technologies 2011. Society for Applied Learning Technology. Caribe Royale Orlando Hotel, Orlando, Florida. 23-25 Feb. 2011. Conference Presentation.",
+            "Weeden, Elissa and Kathryn L. Schmitz. 'Web Conferencing Technology: Fostering Inclusive Course Experiences for Students Who are Deaf and Hard of Hearing.' Volta Voices. (2014). Web."
+         ]
+      },
+      {
+         "facultyName":"Qi Yu",
+         "username":"qyuvks",
+         "citations":[
+            "Yu, Qi and Athman Bouguettaya. 'Multi-Attribute Optimization in Service Selection.' World Wide Web Journal (WWWJ) 15. 1 (2012): 1-31. Print.",
+            "Bouguettaya, Athman, et al (Yu, Qi). 'Service-Centric Framework for a Digital Government Application.' IEEE Transactions on Services Computing (TSC) 4. 1 (2011): 3-16. Print.",
+            "Xu, Kai, et al(Yu, Qi). 'Web Service Management System for Bioinformatics Research: A Case Study.' Service Oriented Computing and Applications 5. 1 (2011): 1-15. Print.",
+            "Liu, Xumin, et al(Yu, Qi). 'Efficient Change Management in Long-Term Composed Services.' Service Oriented Computing and Applications 5. 2 (2011): 87-103. Print.",
+            "Yu, Qi. 'Place Semantics into Context: Service Community Discovery from the WSDL Corpus.' Proceedings of the Service-Oriented Computing - 9th International Conference, ICSOC 2011. Ed. Gerti Kappel, Zakaria Maamar, and Hamid R. Motahari-Nezhad. Germany: Springer, Print.",
+            "Knight, Andrew, Qi Yu, and Manjeet Rege. 'Efficient Range Query Processing on Uncertain Data.' Proceedings of the IEEE International Conference on Information Reuse and Integration, IRI 2011. Ed. Reda Alhajj, James B. D. Joshi, and Mei-Ling Shyu. Las Vegas, Nevada: n.p., Web.",
+            "Liu, C., et al(Yu, Qi). 10th International Conference, ICSOC 2012 Shanghai, China,. 10 ed. Shanghi, China: Springer, 2012. Print.",
+            "Ghose, A., et al(Yu, Qi). Service-Oriented Computing - ICSOC 2012 Workshops - ICSOC 2012, International Workshops ASC, DISA, PAASC, SCEB, SeMaPS, WESOA, and Satellite Events. Shanghai, China: Springer, 2013. Print.",
+            "Yu, Q. and A. Bouguettaya. 'Multi-Attribute Optimization in Service Selection.' World Wide Web Journal (WWWJ) 15. 1 (2012): 1-31. Print.",
+            "Yu, Q. 'Decision Tree Learning from Incomplete QoS to Bootstrap Service Recommendation.' Proceedings of the IEEE International Conference on Web Services (ICWS). Ed. Carole A. Goble, Peter P. Chen, and Jia Zhang. Honolulu, HI: IEEE, 2012. Print.",
+            "Yu, Q. 'Sparse Functional Representation for Large-scale Service Clustering.' Proceedings of the 10th International Conference on Service Oriented Computing (ICSOC 2012). Ed. C. Liu, et al. Shanghai, China: Springer, Print.",
+            "Wu, J., et al(Yu, Qi). 'Selecting Skyline Services for QoS-aware Composition by Upgrading MapReduce Paradigm.' Cluster Computing 16. 4 (2013): 693-706. Print.",
+            "Andhale, J. P., M. Rege, and Q. Yu. 'Discovering Heterogeneous Evolving Web Service Communities Using Semi-Supervised Non Negative Matrix Factorization.' International Journal of Machine Learning and Computing (IJMLC) 3. 2 (2013): 201-205. Print.",
+            "Yu, Q. 'Efficient Large-scale Service Clustering via Sparse Functional Representation and Accelerated Optimization.' International Journal of Cooperative Information Systems (IJCIS) 22. 4 (2013): 1-26. Print.",
+            "Yu, Q. and A. Bouguettaya. 'Efficient Service Skyline Computation for Composite Service Selection.' IEEE Transactions on Knowledge and Data Engineering (TKDE) 25. 4 (2013): 776-789. Web.",
+            "Wang, L., et al(Yu, Qi). 'Online Reliability Time Series Prediction for Service-Oriented System of Systems.' Proceedings of the 11th International Conference on Service Oriented Computing (ICSOC). Ed. S. Basu. Berlin, Germany: Springer, 2013. Print.",
+            "Chen, L., et al(Yu, Qi). 'WT-LDA: User Tagging Augmented LDA for Web Service Clustering.' Proceedings of the 11th International Conference on Service Oriented Computing (ICSOC). Ed. S. Basu. Berlin, Germany: n.p., 2013. Print.",
+            "Wang, H., X. Wang, and Q. Yu. 'Optimal Self-Healing of Service-Oriented Systems with Incomplete Information.' Proceedings of the IEEE Big Data Congress. Ed. P. Hofmann. Santa Clara, CA: n.p., 2013. Print.",
+            "Wang, H., H. Sun, and Q. Yu. 'Reliable Service Composition via Automatic QoS Prediction.' Proceedings of the 10th International Conference on Services Computing (SCC 2013). Ed. Michael Goul. Santa Clara, CA: n.p., 2013. Print.",
+            "Naik, S. and Q. Yu. 'Evolutionary User Selection to Maximize the Influence of Viral Marketing.' Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). Ed. Tansel Ozyer. Niagara Falls, Canada: n.p., 2013. Print.",
+            "Yu, Q., Z. Zheng, and H. Wang. 'Trace Norm Regularized Matrix Factorization for Service Recommendation.' Proceedings of the IEEE International Conference on Web Services (ICWS). Ed. Michael Lyu. Santa Clara, CA: n.p., 2013. Print.",
+            "Yu, Qi. 'Big Data Analytics in Service Computing.' Upstate New York Oracle User Group Educational Workshop. Upstate New York Oracle User Group. Buffalo, NY. 7 Jun. 2013. Conference Presentation.",
+            "Yu, Qi. 'On Large-scale Service Clustering: Sparse Learning and Probabilistic Modeling.' RMIT Workshop in Service Computing. RMIT. Melbourne, VIC. 8 Dec. 2014. Lecture.",
+            "Yu, Qi. 'Big Data Analytics In Service Computing.' S&T Seminars. University of Rochester. Rochester, NY. 25 Apr. 2014. Lecture.",
+            "Hochberg, Limor, et al(Yu, Qi). 'Towards Automatic Annotation of Clinical Decision-Making Style.' Proceedings of the The 8th Linguistic Annotation Workshop. Ed. Lori Levin and Manfred Stede. Dublin, Ireland. ",
+            "Wang, Hongbing, et al(Yu, Qi). 'A Novel Online Reliability Prediction Approach for Service-Oriented Systems.' Proceedings of the ICWS 2014. Ed. David De Roure, Bhavani Thuraisingham, and Jia Zhang. Anchorage, Alaska: IEEE.",
+            "Wang, Hongbing, et al(Yu, Qi). 'Adaptive and Dynamic Service Composition via Multi-agent Reinforcement Learning.' Proceedings of the ICWS 2014. Ed. David De Roure, Bhavani Thuraisingham, and Jia Zhang. Anchorage, Alaska: IEEE. ",
+            "Wang, Hongbing, et al(Yu, Qi). 'Integrating On-policy Reinforcement Learning with Multi-agent Techniques for Adaptive Service Composition.' Proceedings of the ICSOC 2014. Ed. Xavier Franch, et al. Paris, France: Springer. ",
+            "Bullard, Joseph, et al(Yu, Qi). 'Towards Multimodal Modeling of Physicians' Diagnostic Confidence and Self-awareness Using Medical Narratives.' Proceedings of the COLING 2014. Ed. Jan Hajic and Junichi Tsujii. Dublin, Ireland: ACL, 2014. ",
+            "Guo, Xuan, et al(Yu, Qi). 'Fusing Multimodal Human Expert Data to Uncover Hidden Semantics.' Proceedings of the GazeIn@ICMI 2014. Ed. Hung-Hsuan Huang, et al. Istanbul, Turkey: ACM.",
+            "Guo, Xuan, et al(Yu, Qi). 'Infusing Perceptual Expertise and Domain Knowledge into a Human-centered Image Retrieval System: A Prototype Application.' Proceedings of the ETRA 2014. Ed. Pernilla Qvarfordt and Dan Witzner Hansen. Safety Harbor, FL: ACM. ",
+            "Yu, Qi. 'On Bootstrapping Web Service Recommendation.' Web Services Foundations. Ed. Athman Bouguettaya, Quan Z. Sheng, and Florian Daniel. New York, NY: Springer, 2014. 589-608.",
+            "Guo, Xuan, et al(Yu, Qi). 'From Spoken Narratives to Domain Knowledge: Mining Linguistic Data for Medical Image Understanding.' Artificial Intelligence in Medicine 62. 2 (2014): 79-90.",
+            "Yu, Qi. 'QoS-aware Service Selection via Collaborative QoS Evaluation.' World Wide Web 17. 1 (2014): 33-57. Print. "
+         ]
+      },
+      {
+         "facultyName":"Steve Zilora",
+         "username":"sjzics",
+         "citations":[
+            "Zilora, Stephen J. 'Informatics Minor for Non-Computer Students.' Proceedings of the ACM SIGITE '11 West Point, NY, October 2011. Ed. Unknown. Unknown: Association for Computing Machinery, Inc., 2011. Print.",
+            "Zilora, Stephen J. 'STEM Collaboration Cubed.' Proceedings of the 41st ASEE/IEEE Frontiers in Education Conference. Ed. Unknown. Unknown: Institute of Electrical and Electronics Engineers, Print.",
+            "Zilora, Stephen J. 'STEM Integration with Informatics.' Proceedings of the Integrated STEM Education Conference. Ed. unknown. Ewing, NJ: Institute of Electrical and Electronics Engineers, 2011. Print."
+         ]
+      },
+      {
+         "facultyName":"Catherine Beaton",
+         "username":"ciiics",
+         "citations":[
+            "Beaton, Catherine. 'Do We Owe Them? The Impact of e-Learning on Disadvantaged Populations.' Proceedings of the European Conference on e-Learning, Oct 26-27, 2012 Groningen, NL. Ed. Dr. Hans Beldhuis. Nr Reading, United Kingdom: Academic Publishing International Limited, Print."
+         ]
+      },
+      {
+         "facultyName":"Daniel Bogaard",
+         "username":"dsbics",
+         "citations":[
+            "Bogaard, Daniel, Daryl Johnson, and Robert Parody. 'Browser Web Storage Vulnerability Investigation HTML5 localStorage Object.' Proceedings of the The 2012 International Conference on Security and Management. Las Vegas, NV: n.p., 2012. Print.",
+            "Tentilucci, Matt, Roberts, Nick, Kandari, Shreshth, Johnson, Daryl, Bogaard, Daniel S., Stackpole, Bill, Markowsky, George. 'Crowdsourcing Computer Security Attack Trees.'Proceedings of the Annual Symposium on Information Assurance (ASIA'15). Ed. Sanjay Goel. Albany, NY, June, 2015."
+         ]
+      },
+      {
+         "facultyName":"Bruce Hartpence",
+         "username":"bhhics",
+         "citations":[
+            "Hartpence, Bruce. The Packet Guide to Voice over IP Protocols. first ed. Sebastopol, Ca: O'Reilly, 2012. Print.",
+            "Hartpence, Bruce. 'Internet Protocol Version 6.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2012. 30. Print.",
+            "Hartpence, Bruce, et al. 'Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education.' Proceedings of the Education and Information Systems, Technologies and Applications 2013. Ed. IMSCI. Orlando, FL: n.p., 2013. Print.",
+            "Ghosh, A., B. Hartpence, and D. Johnson. 'A Practical Study of the Problems of Current Internet Routing Tables.' Proceedings of the 2013 International Conference on Security and Management (SAM'13). Ed. Worldcom. Las Vegas, NV: n.p., 2013. Print.",
+            "Hartpence, Bruce. 'Transmission Control Protocol.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2014. 200-230. Print.",
+            "Hartpence, Bruce. 'User Datagram Protocol.' The Packet Guide to Core Network Protocols. Sebastopol, Ca: O'Reilly, 2014. 230-255. Print.",
+            "Hartpence, Bruce. 'Curricular and Performance Measurement Challenges in Cloud Environments.' Proceedings of the SIGITE. Ed. SIGITE. Atlanta, Georgia: n.p., 2014. Print.",
+            "Hartpence, Bruce, et al. 'Meshed Tree Protocol for Faster Convergence in Switched Networks.' Proceedings of the ICNS 2014. Ed. ICNS 2014. Chamonix, France: IARIA, 2014. Print."
+         ]
+      },
+      {
+         "facultyName":"Sharon Mason",
+         "username":"spmics",
+         "citations":[
+            "Marchetti, C, et al(Mason, Sharon). 'Perceived Levels of Faculty Value, Influence, and Satisfaction by Gender, Rank, Ethnicity, College, and Department at a Large Private University.' Proceedings of the 2012 ASEE Annual Conference and Exposition. San Antonio, TX: n.p., 2012. Web.",
+            "Lewis, C, et al(Mason, Sharon). 'How You Can Make a Difference: Bootstrapping Efforts Toward Gender Balance, Birds of a Feather Presentation.' 2012 Grace Hopper Celebration of Women in Computing Conference. The Anita Borg Institute. Baltimore, MD. 2-6 Oct. 2012. Conference Presentation.",
+            "Goodall, J., et al(Mason, Sharon). 'Are We There Yet? 21st Century Juggling of an Academic Career and Family Life, Birds of a Feather Presentation.' 2012 Grace Hopper Celebration of Women in Computing Conference. Anita Borg Institute. Baltimore, MD. 2-6 Oct. 2012. Conference Presentation.",
+            "Bailey, M. and Marchetti, C., Mason, S. 'Conversing on Diversity of Women Faculty: Women Faculty, Asset or Liability?' American Association of University Women. Rochester, NY. 28 Apr. 2012. Address.",
+            "Bailey, M, et al(Mason, Sharon). National Science Foundation. ADVANCE Institutional Transformation Grant: Increasing the Participation and Advancement of Women in Academic Science and Engineering Careers. Rochester, NY, 2012.",
+            "Mason, S. (PI) and Stackpole, W. (Co-PI). Department of Defense. Department of Defense Information Assurance Scholarship Program. Rochester, NY, 2012.",
+            "Johnson, D., et al(Mason, Sharon). 'Designing, Constructing and Implementing a Low-Cost Virtualization Cluster for Education.' Proceedings of the 7th International Multi-Conference on Society, Cybernetics, and Informatics. Orlando, FL: n.p., 2013. Web.",
+            "Mason, Marchetti, et al. 'Institutional Transformation at a Large Private Technical University: Reporting on the Accomplishments of a Combined Data Driven Top Down and Bottom Up Approach.' Proceedings of the 2014 IEEE Frontiers in Education. Ed. Unknown. Madrid, Spain: n.p., 2014. Web.",
+            "Mason, Bailey M., L Clayton, and C S. Marchetti. 'Transforming an Institution Using Data to Inform Creative Interventions.' Proceedings of the 2014 ACM & Anita Borg Grace Hopper Celebration of Women in Computing. Ed. . Phoenix, AZ: n.p., 2014. Print.",
+            "S., Mason, et al. 'Faculty Awards at a Large Private Institution: An Indicator of Evolving University Values?' Proceedings of the 2014 American Society for Engineering Education Annual Conference and Exposition. Ed. Unknown. Indianapolis, IN: n.p., 2014. Web."
+         ]
+      },
+      {
+         "facultyName":"Tae (Tom) Oh",
+         "username":"thoics",
+         "citations":[
+            "Oh, Tae, et al. 'Best Practices for Android, Blackberry, and iOS.' Proceedings of the The First IEEE Workshop in enabling Technologies for Smartphone and Internet of Things 2012. Ed. NA. Seoul, South Korea: n.p., 2012. Print.",
+            "Ramachandran, Rahul, Tae Oh, and William Stackpole. 'Android Anti-virus Analysis.' Proceedings of the ASIA and SKM 2012. Ed. Sanjay Goel. Albany, New York: n.p., 2012. Print.",
+            "Jeffery, Jaseem and Tae Oh. 'Implementation of Secuirty Encryption in MANET Reactive Routing Protocols Using OPNET.' Proceedings of the OPNETWORK 2012. Ed. OPNET. Washington DC, DC: n.p., 2012. Print.",
+            "Sun, Yu, Tae Oh, and Shinyoung Lim. 'Feasibility Study of Emergency Siren Detection for Deaf and Hard of Hearing Using Android Platform.' Proceedings of the UKC 2012. Ed. UKC. Los Angeles, CA: n.p., 2012. Print.",
+            "Gonzalez, Carlos, William Stackpole, and Tae Oh. 'Anti-Spyware Analysis for iOS.' Proceedings of the ASIA and SKM 2012. Ed. ASIA. Albany, NY: n.p., 2012. Print.",
+            "Cummins, Emily, Bill Stackpole, and Tae Oh. 'Blackberry Structure and Anti-Malware Analysis.' Proceedings of the ASIA and SKM 2012. Ed. ASIA. Albany, NY: n.p., 2012. Print.",
+            "Kim, HyunGon, Tae Oh, and Young Choi. 'Nomadic Device Based CRL Acquisition Method for Vehicular Networks.' Proceedings of the 6th International Conference of Convergence and Hybrid Information Technology (ICHIT 2012). Ed. Springer. Daejeon, South Korea: n.p., 2012. Print.",
+            "Oh, Tae. 'OPNET Modeler in Networking Courses at RIT.' OPNETWORK 2012. OPNET. Washington DC, DC. 13 Aug. 2012. Conference Presentation.",
+            "Tangs, Emma, et al(Oh, Tae). 'Effect of Web Caching on Load Time.' International Journal of Emerging Technology in Learning 8. 6 (2013): 21-26. Print.",
+            "Choi, Young, Young Choe, and Tae Oh. 'Future Direction for a Next Generation Web.' International Journal of Emerging Technology in Learning 8. 6 (2013): 6-10. Print.",
+            "Oh, Tae, Sumita Mishra, and Clark Hochgraf. 'Smart Grid Security in the Last Mile.' Security and Privacy in Smart Grids. Ed. Yang Xiao. Boca Raton, Florida: CRC Press, 2013. 271-291. Print.",
+            "Szost, Colin, et al(Oh, Tae). 'Teaching Android Malware Behaviors for Android Platform Using Interactive Labs.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 69-72. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Sharma, Kriti, et al(Oh, Tae). 'Malware Analysis for Android Operating System.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 31-35. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Mislan, Rick and Tae Oh. 'Mobile Device Vulnerability Exploitation as a Security Curriculum Using the Flipped Classroom Model Approach.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp 64-68. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Andrew, Ben, Tae Oh, and Bill Stackpole. 'Android Malware Analysis Platform.' Proceedings of the ASIA 2013, Albany, NY, June 2013, pp. 36-38. Ed. ASIA. Albany, NY: n.p., Print.",
+            "Ge, Changfeng, et al(Oh, Tae). 'Real-Time Monitoring of Packaging Handling and Transportation.' US Provisional Patent Application US, 61/889,914. 1 Sep. 2013.",
+            "Dutia, Shobhit, Youngho Kim, and Tae Oh. 'Automated Input Generator for Android Applications.' Proceedings of the Annual Symposium on Information Assurance 2014. Ed. ASIA 2014. Albany, New York: n.p., Web.",
+            "Kushalnagar, Raja, Vignesh Ramachandran, and Tae Oh. 'Tactile Captions: Augmenting Visual Captions.' Proceedings of the 2014 International Conference on Computers Helping People with Special Needs. Ed. ICCHP 2014. Paris, France: n.p., Print.",
+            "Paugh, Katie, Rick Mislan, and Tae Oh. 'Virtual Malware Analysis Framework and Platform for Android.' Proceedings of the 9th International Conference on Cyber Warfare and Security. Ed. ICCWS 2014. West Lafayette, Indiana: n.p., Print.",
+            "Kim, Youngho and Tae Oh. 'Analysis of Mobile Malware Based on the User Awareness.' Proceedings of the SIGITE 2014. Ed. ACM. Atlanta, GA: n.p., 2014. Print.",
+            "Kushainagar, Raja, Vignesh Ramachandran, and Tae Oh. 'Creating Tactile Captions: Augmeting Visual Captions.' Proceedings of the UKC 2014. Ed. UKC. San Francisco, CA: n.p., Print.",
+            "Oh, T. 'Cloud-based Malware Mitigation Prototype for Android.' KOCSEA 2014. KOCSEA. Yorktown Heights, New York. 11 Dec. 2014. Conference Presentation.",
+            "Stackpole, Bill, Tae Oh, and Rick Mislan. 'Implementing Flipped Classroom Model in Mobile Device Security and Vulnerability Exploitation Course.' The Colloquium for Information Systems Security Education 2014. CISSE. San Diego, CA. 17 Jun. 2014. Conference Presentation."
+         ]
+      },
+      {
+         "facultyName":"Nirmala Shenoy",
+         "username":"nxsvks",
+         "citations":[
+            "Tuncer, Hasan and Nirmala Shenoy. 'Analysis of a User-centric Handoff Costing Framework for Virtual Mobility Domain Architecture.' Proceedings of the IEEE Globecom, 3-7 Dec 2012. Ed. IEEE. Anaheim, California: n.p., Web.",
+            "Tuncer, Hasan and Nirmala Shenoy. 'Performance Analysis of Virtual Mobility Domain Scheme vs IPv6 Mobility Protocols.' Elsevier Computer Network Journal. (2013): 125-173. Web.",
+            "Tuncer, Hasan and Nirmala Shenoy. 'A Survey of Identity and Handoff Management Approaches.' Computer Communications Journal. (2013): 125-173. Web.",
+            "Huba, Bill and Nirmala Shenoy. 'Airborne Surveillance Networks with Directional Antennas.' International Journal on Advances in Networks and Services. (2013): 125-173. Web.",
+            "Shenoy, Nirmala. 'Peer to Peer Communications Among Ground Troop.' Proceedings of the Communications Systems and Networks (COMSNETS), Bangalore India 4th to 6th Jan 2013. Ed. IEEE and ACM. Bangalore, Karnataka: n.p., Web.",
+            "Nozaki, Yoshihiro, Parth Bakshi, and Nirmala Shenoy. 'Tiered Gateway Routing Protocol.' Proceedings of the Ninth International Conference on Networking and Services (ICNS) 24th to 29th March 2013, Lisbon Portugal. Ed. IARIA and INRIA. Lisbon, Portugal: n.p., Web.",
+            "Nozaki, Yoshihio, Qian Li, and Nirmala Shenoy. 'Wireless Sensor Actor Networks For Industry Control.' Proceedings of the IARIA and INRIA (Europe) sponsored Ninth International Conference on Networking and Services (ICNS) 24th to 29th March 2013, Lisbon Portugal. Ed. IARIA and INRIA. Lisbon, Protugal: n.p., Web.",
+            "Nozaki, Yoshihiro, et al. 'Evaluation of Tiered Routing Protocol in Floating Cloud Tiered Internet Architecture.' Communication Networks. (2014): 134-145. Print.",
+            "Sharma, Kuhu, et al. 'Meshed Tree Protocol for Faster Convergence in Switched Networks.' International Conference on Network Services. (2014). Print."
+         ]
+      },
+      {
+         "facultyName":"Ed Holden",
+         "username":"ephics",
+         "citations":[
+            "Holden, Edward and T.J. Borrelli. 'Investigating the Effectiveness of Early Programming- Centric Models for IT Education.' Proceedings of the ACM SIGITE 2013 Annual Conference on Information Technology Education. Orlando, Florida: n.p., 2013. Web."
+         ]
+      },
+      {
+         "facultyName":"Michael Floeser",
+         "username":"mjfics",
+         "citations":[
+            "Blochel, Kevin, et al(Floeser, Michael). 'A Serious Game for Measuring Disaster Response Spatial Thinking.' ArcUser. Summer (2013): 12-15. Web."
+         ]
+      },
+      {
+         "facultyName":"Vicki Hanson",
+         "username":"vlhics",
+         "citations":[
+            "Hanson, Vicki L. and John T. Richards. 'Progress on Website Accessibility?' ACM Transactions on the Web 7. 1 (2013): Article 2, (March 2013), 30 pages. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'Open Source Accessibility: Advantages and Limitations.' Journal of Interaction Science 1. (2013): Article 2, 10 pages. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'Accessibility Support with the ACCESS Framework.' International Journal of Human Computer Interaction 29. 11 (2013): 702-716. Print.",
+            "Heron, Michael, Vicki L. Hanson, and Ian Ricketts. 'The ACCESS Framework: A Technical Framework for Adaptive Accessibility Support.' Proceedings of the 5th ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '13); London, June 24 - 26. Ed. Peter Forbrig and Prasun Dewan. New York, NY: ACM, Print.",
+            "Gibson, Lorna and Vicki L. Hanson. 'Digital Motherhood: How Does Technology Support New Mothers?' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, Print.",
+            "Medellin-Gasque, Rolando, Chris Reed, and Vicki L. Hanson. 'A Protocol for Software-Supported Interaction with Broadcast Debates.' Proceedings of the Open Digital, Fourth Annual Digital Economy All Hands Conference. Ed. Nick Race and Paul Sermon. Salford, UK: n.p., 2013. Web.",
+            "Noval, Chris, John Arnott, and Vicki L. Hanson. 'Older Adults and Social Networking Sites: Developing Recommendations for Inclusive Design.' Proceedings of the Open Digital, Fourth Annual Digital Economy All Hands Conference. Ed. Nick Race and Paul Sermon. Salford, UK: n.p., 2013. Web.",
+            "Nicolau, Hugo, et al(Hanson, Vicki L.). 'Augmenting Braille Input Through Multi-Touch Feedback.' Proceedings of the ACM Symposium on User Interface Software and Technology (UIST '13). Ed. Ivan Poupyrev and Takeo Igarashi. New York, NY: ACM, 2013. Print.",
+            "Stewart, Craig, Penny Traitor, and Vicki L. Hanson. 'Wheels in Motion: Inertia Sensing in Roller Derby.' Proceedings of the ACM Symposium on User Interface Software and Technology (UIST '13). Ed. Ivan Poupyrev and Takeo Igarashi. New York, NY: ACM, 2013. Print.",
+            "McIntyre, Lesley and Vicki L. Hanson. 'BESiDE-The Built Environment for Social Inclusion in the Digital Economy.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, Print.",
+            "Vargheese, John Paul, et al(Hanson, Vicki L.). 'Persuasive Dialogue in Telecare: Promoting and Encouraging Social Interaction for Older Adults.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI '13). Ed. Stephen Brewster and Susanne Bodker. New York, NY: ACM, 2013. Print.",
+            "Hanson, Vicki L. 'Accessibility.' HCI Guru Lecture Series. Loughborough University. Loughborough, UK. 3 Oct. 2013. Lecture.",
+            "Sears, Andrew and Vicki L. Hanson, ed. ACM Transactions on Accessible Computing. New York, NY: ACM, 2013. Web.",
+            "Dee, Marianne and Vicki L. Hanson. 'A Large User Pool for Accessibility Research with Representative Users.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "McIntyre, Lesley and Vicki L. Hanson. 'Buildings and Users with Visual Impairment: Uncovering Factors for Accessibility Using BITKit.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Montague, Kyle and Vicki L. Hanson. 'Motor-impaired Touchscreen Interactions in the Wild.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Crabb, Michael and Vicki L. Hanson. 'Age, Technology Usage, and Cognitive Characteristics in Relation to Perceived Disorientation and Reported Website Ease of Use.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Spoken Interaction with Broadcast Debates.' Proceedings of the International Conference on Computational Models of Argument. Ed. IOS. Amsterdam, Netherlands: IOS Press, 2014. Print.",
+            "Nicolau, Hugo, et al. 'B#: Chord-based Correction for Multitouch Braille Input.' Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14). BEST PAPER AWARD. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Norval, Chris, John Arnott, and Vicki L. Hanson. 'What's on Your Mind? Investigating Recommendations for Inclusive Social Networking and Older Adults.' Proceedings of the Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '14. Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Older adults? Interaction with Broadcast Debates.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Older adults? Interaction with Broadcast Debates.' Proceedings of the 16th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Stewart, Craig and Vicki L. Hanson. 'Assisting Older Adults in Assessing the Reliability of Health-related Websites.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Stewart, Craig D. and Vicki L. Hanson. 'I'd Tap That! Providing Real-time Feedback on Roller Derby Skills.' Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI'14). Ed. ACM. New York, NY: ACM, 2014. Print.",
+            "Trinh, Ha, et al. 'Phoneme-based Predictive Text Entry Interface.' Proceedings of the 16th international ACM SIGACCESS Conference on Computers & Accessibility. Ed. Unknown. New York, NY: ACM, 2014. Print.",
+            "Hanson, Vicki L. 'Computing for Humans.' ACM ASSETS'14. ACM. Rochester, New York. 29 Oct. 2014. Keynote Speech.",
+            "Hanson, Vicki L. 'The Human Side of Computing.' ACM Conference of European Chapter Leaders (CECL). ACM Europe Council. Athens, Greece. 18 Sep. 2014. Address.",
+            "Hanson, Vicki L. 'Disability and Aging.' Aging in Place. Computing Community Consortium & NIH Meeting. Bethesda, MD. 10 Sep. 2014. Address.",
+            "Hanson, Vicki L. 'Lifelogging and Care Home Residents.' Augmenting Human Memory - Capture and Recall in the Era of Lifelogging. Leibniz Center for Informatics Seminar on Augmenting Human Memory. Dagstuhl, Germany. 2 Sep. 2014. Address.",
+            "Hanson, Vicki L. and Lesley McIntyre. 'BESIDE: The Built Environment for Social Inclusion Through the Digital Economy.' Fifth Annual Digital Economy All Hands Conference (DE2014). Research Councils, UK. London, UK. 3 Dec. 2014. Conference Presentation.",
+            "Dee, Marianne and Vicki L. Hanson. 'A Pool of Representative Users for Accessibility Research: Seeing Through the Eyes of Users.' Fifth Annual Digital Economy All Hands Conference (DE2014). Research Councils, UK. London, UK. 3 Dec. 2014. Conference Presentation.",
+            "Montague, Kyle, Hugo Nicolau, and Vicki L. Hanson. 'The Personal Touch: Supporting Interaction Abilities With Touchscreen Devices.' The Digital Economy All Hands Conference DE|2014. Research Councils, UK. London, UK. 4 Dec. 2014. Conference Presentation.",
+            "Medellin, A. Rolando, Chris Reed, and Vicki L. Hanson. 'Interaction with Broadcast Debates using Speech Recognition.' The Digital Economy All Hands Conference DE 2014. Research Councils. London, UK. 4 Dec. 2014. Conference Presentation.",
+            "Hanson, Vicki L., Reyyan Ayfer, and Beverly Bachmayer. 'European Women in Computing.' Communications of ACM (CACM). (2014). Print."
+         ]
+      },
+      {
+         "facultyName":"Larry Hill",
+         "username":"lwhfac",
+         "citations":[
+            "Hill, Lawrence and Steven Ciccarelli. 'Using a Low-Cost Open Source Hardware Development Platform in Teaching Young Students Programming Skills.' Proceedings of the SIGITE 2013. Ed. Robert. Friedman. Orlando, Florida: ACM, 2013. Web."
+         ]
+      },
+      {
+         "facultyName":"Deborah LaBelle",
+         "username":"dmlics",
+         "citations":[
+            "LaBelle, Deborah, et al. 'Girls in IT: How to Develop Talent and Leverage Support.' Proceedings of the 14th annual ACM SIGITE Conference on Information Technology Education. Association of Computing Machinery. Orlando, FL. 11 Oct. 2013. Conference Presentation."
+         ]
+      },
+      {
+         "facultyName":"Ronald Vullo",
+         "username":"rpvvks",
+         "citations":[
+            "Vullo, Ronald P., Natallia Ivaniuk, and Sean Boyle. 'Molly Open Source Online Lecture System.' Proceedings of the EEE'13 - The 2013 International Conference on e-Learning, e-Business, Enterprise Information Systems, and e-Government, Las Vegas, NV (July, 2013). Ed. Hamid R. Arabnia, Azita Bahrami, and Fernando G. Tinetti. Las Vegas, NV: n.p., Print.",
+            "Vullo, Ronald P., et al. 'Blending Art and Technology: Two Courses and Some MAGIC.' Proceedings of the International Conference on Frontiers in Education: Computer Science and Computer Engineering. Ed. Hamid R. Arabnia, et al. Las Vegas, NV: n.p., 2014. Print."
+         ]
+      },
+      {
+         "facultyName":"Matt Huenerfauth",
+         "username":"mphics",
+         "citations":[
+            "Pengfei Lu, Matt Huenerfauth. 2014. Collecting and Evaluating the CUNY ASL Corpus for Research on American Sign Language Animation. Computer Speech & Language. Volume 28, Issue 3, May 2014, Pages 812?831.  Elsevier.  doi: 10.1016/j.csl.2013.10.004?",
+            "Hernisa Kacorri, Pengfei Lu, Matt Huenerfauth. 2013. Effect of Displaying Human Videos During an Evaluation Study of American Sign Language Animation. ACM Transactions on Accessible Computing. Volume 5, Issue 2, Article 4 (October 2013), 31 pages. doi: 10.1145/2517038",
+            "Matt Huenerfauth, Pengfei Lu. 2012. ?Effect of Spatial Reference and Verb Inflection on the Usability of American Sign Language Animations.? Universal Access in the Information Society: Volume 11, Issue 2 (June 2012), pages 169-184. doi: 10.1007/s10209-011-0247-7.",
+            "Pengfei Lu, Matt Huenerfauth. 2011. ?Data-Driven Synthesis of Spatially Inflected Verbs for American Sign Language Animation.? ACM Transactions on Accessible Computing. Volume 4, Issue 1, Article 4 (November 2011), 29 pages. doi: 10.1145/2039339.2039343",
+            "Matt Huenerfauth, Pengfei Lu.  2010. ?Accurate and Accessible Motion-Capture Glove Calibration for Sign Language Data Collection.? ACM Transactions on Accessible Computing, Volume 3, Number 1, Article 2.  New York: ACM Press.  32 pages. doi: 10.1145/1838562.1838564",
+            "Hernisa Kacorri, Matt Huenerfauth. 2015. 'Comparison of Finite-Repertoire and Data-Driven Facial Expressions for Sign Language Avatars.' Universal Access in Human-Computer Interaction.  Lecture Notes in Computer Science. Switzerland: Springer International Publishing. ",
+            "Matt Huenerfauth, Hernisa Kacorri. 2015. 'Best Practices for Conducting Evaluations of Sign Language Animation.' Proceedings of the 30th Annual International Technology and Persons with Disabilities Conference (CSUN?15), Scientific/Research Track, San Diego, California, USA.",
+            "Hernisa Kacorri, Allen Harper, Matt Huenerfauth. 2014. Measuring the Perception of Facial Expressions in American Sign Language Animations with Eye Tracking. Universal Access in Human-Computer Interaction.  Lecture Notes in Computer Science, Volume 8516, pp. 549-559. Switzerland: Springer International Publishing.",
+            "Hernisa Kacorri, Matt Huenerfauth. 2014. 'Implementation and Evaluation of Animation Controls Sufficient for Conveying ASL Facial Expressions.' Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS?14), Rochester, New York, USA.",
+            "Matt Huenerfauth, Hernisa Kacorri. 2014. 'Release of Experimental Stimuli and Questions for Evaluating Facial Expressions in Animations of American Sign Language.' Proceedings of the 6th Workshop on the Representation and Processing of Sign Languages: Beyond the Manual Channel, The 9th International Conference on Language Resources and Evaluation (LREC 2014), Reykjavik, Iceland.",
+            "Hernisa Kacorri, Pengfei Lu, Matt Huenerfauth. 2013. 'Evaluating Facial Expressions in American Sign Language Animations for Accessible Online Information.' Universal Access in Human-Computer Interaction. Design Methods, Tools, and Interaction Techniques for eInclusion, Lecture Notes in Computer Science Volume 8009, 2013, pp. 510-519. ",
+            "Hernisa Kacorri, Allen Harper, Matt Huenerfauth. 2013. 'Comparing Native Signers Perception of American Sign Language Animations and Videos via Eye Tracking.' In Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '13). ACM, New York, NY, USA, Article 9, 8 pages. DOI=10.1145/2513383.2513441 ",
+            "Pengfei Lu, Matt Huenerfauth. 2012. 'Learning a Vector-Based Model of American Sign Language Inflecting Verbs from Motion-Capture Data.' Proceedings of the Third Workshop on Speech and Language Processing for Assistive Technologies (SLPAT), The 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2012), Montreal, Quebec, Canada. East Stroudsburg, PA: Association for Computational Linguistics.",
+            "Pengfei Lu, Matt Huenerfauth. 2012. 'CUNY American Sign Language Motion-Capture Corpus: First Release.' Proceedings of the 5th Workshop on the Representation and Processing of Sign Languages: Interactions between Corpus and Lexicon, The 8th International Conference on Language Resources and Evaluation (LREC 2012), Istanbul, Turkey."
+         ]
+      },
+      {
+         "facultyName":"Charlie Border",
+         "username":"cbbics",
+         "citations":[
+            "Border, Charles and Kyrre Begnum. 'Educating System Administrators.' :Login 39. 5 (2014): 37-43. Print.",
+            "Border, Charles. 'Virtualization Systems Architectures.' Summit of Educators in System Administration. USENIX. Seattle, Washington. 11 Nov. 2014. Conference Presentation.",
+            "Border, Charles. 'Advanced Storage Architectures.' Summit of Educators in System Administration. USENIX. Seattle, Washington. 11 Nov. 2014. Conference Presentation."
+         ]
+      },
+      {
+         "facultyName":"Daniel Ashbrook",
+         "username":"dlaics",
+         "citations":[
+            "Chen, Ashbrook, Goel, Lee, Patel (2014). AirLink: sharing files between multiple devices using in-air gestures. In UbiComp '14: Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing, pp. 565-569, New York, New York, USA.",
+            "Lyons, Nguyen, Seko, White, Ashbrook, Profita (2013). BitWear: a platform for small, connected, interactive devices. In UIST '13 Adjunct: Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology, pp. 73-74.",
+            "McGee, Ashbrook, White (2012). SenSynth: a Mobile Application for Dynamic Sensor to Sound Mapping. In International Conference on New Interfaces for Musical Expression, pp. 1-4.",
+            "Lyons, Nguyen, Ashbrook, White (2012). Facet: a multi-segment wrist worn system. In UIST '12: Proceedings of the 25th annual ACM symposium on User interface software and technology, pp. 123-129.",
+            "Kohlsdorf, Starner, Ashbrook (2011). MAGIC 2.0: A web tool for false positive prediction and prevention for gesture recognition systems. In Automatic Face & Gesture Recognition and Workshops (FG 2011), 2011 IEEE International Conference on, pp. 1-6.",
+            "Lin, Ashbrook, White (2011). RhythmLink: securely pairing I/O-constrained devices by tapping. In UIST '11: Proceedings of the 24th annual ACM symposium on User interface software and technology, pp. 263-272, New York, New York, USA.",
+            "Ashbrook, Baudisch, White (2011). Nenya: subtle and eyes-free mobile input with a magnetically-tracked finger ring. In CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2043-2046, New York, New York, USA.",
+            "Ashbrook, Starner (2010). MAGIC: a motion gesture design tool. In CHI '10: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2159-2168, New York, New York, USA.",
+            "Ashbrook (2009). Enabling Mobile Microinteractions. PhD Thesis, Georgia Tech. "
+         ]
+      },
+      {
+         "facultyName":"Jai Kang",
+         "username":"jwkics",
+         "citations":[
+            "Morgan, D., J.W.Kang, and J.M. Kang, Minable Data Warehouse, 11th International Conference on Enterprise Information System (ICEIS 2009) pp 125-136, May 6-10, 2009 Milan, Italy."
+         ]
+      },
+      {
+         "facultyName":"Erik Golen",
+         "username":"efgics",
+         "citations":[
+            "J. Kang, Q. Yu, and E. Golen. 'Teaching Internet of Things (IoT) Analytics'. ACM SIGITE 2017, October 4-7, 2017.",
+            "L. Herily, E. Golen, L. Reznik, and S.E. Lyshevski, 'Secure Communication and Signal Processing in Inertial Navigation Systems'. IEEE Electronics and Nanotechnology, April 18-20, 2017."
+         ]
+      }
+   ]
+}
