@@ -1,10 +1,16 @@
 const express = require("express");
 const fs = require ('fs');
 const path = require('path');
+const cors = require('cors');
 
 const app = express();
 
-// app.use(express.static('views'));
+// var corsOptions = {
+//     origin: 'http://example.com',
+//     optionsSuccessStatus: 200 
+// }
+
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/index.html'));
